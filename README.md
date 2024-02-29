@@ -8,7 +8,12 @@ I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committe
  <br>
 
  <h2 align="center"></h2>
- 
+
+ <!--
+ <details>
+ <summary>⚡ GitHub Stats</summary>
+ </details>
+ -->
 ![Ta'Nara's GitHub stats](https://github-readme-stats-ebon-chi.vercel.app/api?username=taylortn&show_icons=true&theme=radical)
 
  <h2 align="center"></h2>
@@ -17,7 +22,16 @@ I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committe
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <h2 align="center"></h2>
-<!--
+
+ <details>
+  <summary>⚡Recent GitHub Activities</summary>
+  <!--START_SECTION:activity-->
+ </details>
+ 
+ 
+ 
+ 
+ <!--
 **taylortn/taylortn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
