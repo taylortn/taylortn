@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
 <h1 align="center">Hi there 👋🏾 , I'm </h1>
 
