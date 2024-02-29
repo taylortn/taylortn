@@ -2,7 +2,7 @@ Hi there 👋🏾 👩🏾‍💻, I'm Ta'Nara
 
 <img src="GitHub.png" alt="banner">
 
-I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist with a strong commitment to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
+I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
 
 [linkedin]: https://www.linkedin.com/in/taylortanara
 
