@@ -13,8 +13,6 @@ I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committe
 [![Spotify](https://now-playing-murex.vercel.app/api/spotify)](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
 
 
-[<img src="https://now-playing-murex.vercel.app/api/spotify" alt="Ta'Nara's Now Playing" width="350" />](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
-
 
 <!--
  <details>
