@@ -32,11 +32,11 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 ![Ta'Nara's GitHub stats](https://github-readme-stats-ebon-chi.vercel.app/api?username=taylortn&show_icons=true&theme=radical)
 
  <h2 align="center"></h2>
- 
+
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
  <a href="mailto:tanara.taylor@yahoo.com">
-  <img src="https://icons8.com/icon/RKb2uv2oPFnR/yahoo" />
+  <a target="_blank" href="https://icons8.com/icon/RKb2uv2oPFnR/yahoo">Yahoo</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
  </a>
   <a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <h2 align="center"></h2>
