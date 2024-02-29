@@ -6,7 +6,7 @@ I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committe
 
 [linkedin]: https://www.linkedin.com/in/taylortanara
 
-[![Ta'Nara's GitHub stats](https://github-readme-stats-git-master-tanara-taylors-projects.vercel.app/api?username=taylortn)](https://github-readme-stats-git-master-tanara-taylors-projects.vercel.app/)
+[![Ta'Nara's GitHub stats](https://github-readme-stats-ebon-chi.vercel.app/api?username=taylortn)](https://github-readme-stats-ebon-chi.vercel.app/)
 <!--
 **taylortn/taylortn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
