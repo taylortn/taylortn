@@ -33,8 +33,14 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 <img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
 <img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>  
  </div>
+ <br>
+ <div align="center">
+ <h2>🐍 My Contributions 🐍 </h2>
+ <br>
+  
+ </div>
+ 
  <h2 align="center">Now Playing 🎧</h2>
-
  
 [![Spotify](https://now-playing-murex.vercel.app/api/spotify)](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
 <br>
