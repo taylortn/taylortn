@@ -9,10 +9,9 @@
 I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
  <br>
 <h2 align="center">Currently Working On🔭</h2>
- <h3 align="center">
-<a href="https://git.io/typing-svg">
-<img src= "https://readme-typing-svg.demolab.com/?lines=-Comparing Scans from Tenable Security Center with the RHEL/WINDOW instances; - Automation of EBS and AMI Snapshots;- Created KMS Keys for Instances;- - Encryption of EBS Volume; - Update Nessus Agents;-+Updating+Versions;- GUI is up & accessible; - Health Checks to the AWS System;- Create Alarms to be emailed up CPU Utilization;- Create Alarms to be emailed up CPU Utilization;- Installing Ansible Playbook on Instances;-Deploy instances to Trellex;- Adding & removing NACL;- Creating ALBs;- Creating new VPCs; "/>
-</a>
+
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&random=false&width=435&lines=-Comparing+Scans+from+Tenable+Security+Center+with+the+RHEL%2FWINDOW+instances;+-+Automation+of+EBS+and+AMI+Snapshots;-+Created+KMS+Keys+for+Instances;+-+Encryption+of+EBS+Volume;-+Update+Nessus+Agents;-Updating+Versions;-+GUI+is+up+%26+accessible;-+Health+Checks+to+the+AWS+System;-+Create+Alarms+to+be+emailed+up+CPU+Utilization;-+Installing+Ansible+Playbook+on+Instances;-Deploy+instances+to+Trellix;-+Adding+%26+removing+NACL;-+Creating+ALBs;-+Creating+new+VPCs" alt="Typing SVG" /></a>
  </h3>
 <br>
  
