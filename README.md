@@ -37,7 +37,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <div align="center">
  <h2>🐍 My Contributions 🐍 </h2>
  <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" /> <br/>
  </div>
  
  <h2 align="center">Now Playing 🎧</h2>
