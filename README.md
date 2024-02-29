@@ -1,10 +1,11 @@
-<h1 align="center">Hi there 👋🏾 👩🏾‍💻, I'm </h1>
+<h1 align="center">Hi there 👋🏾 , I'm </h1>
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
+<h2 align="center">  Whoami 👩🏾‍💻</h2>
+<p align="center">
+<samp>I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.</samp>
+  <br>
 <!--
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/taylortanara">
 -->
