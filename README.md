@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
 <h1 align="center">Hi there 👋🏾 , I'm </h1>
@@ -17,6 +18,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 
 <br>
  <h2 align="center">⚒️Languages Framework Tools ⚒️ </h2>
+ <div align="center">
  <img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>
  <img width="100" height="100" src="https://img.icons8.com/color/100/amazon-s3.png" alt="amazon-s3"/>
  <img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
@@ -29,9 +31,8 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
  <img width="100" height="100" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
 <img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
-
 <img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>  
-
+ </div>
  <h2 align="center">Now Playing 🎧</h2>
 
  
