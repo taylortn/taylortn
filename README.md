@@ -1,9 +1,8 @@
 Hi there 👋🏾 👩🏾‍💻, I'm Ta'Nara
-<!--
-<img src="GitHub.png" alt="banner">
 
-<img src="https://www.canva.com/design/DAF-IPNYsH4/1tfmrtmClGvylI8jRE7sjg/view?utm_content=DAF-IPNYsH4&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="banner">
--->
+
+<img src="https://www.canva.com/design/DAF-IPNYsH4/IH4Cw6H-8hgJgMprdH7LRA/edit?utm_content=DAF-IPNYsH4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner">
+
 I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
 
 [linkedin]: https://www.linkedin.com/in/taylortanara
