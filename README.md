@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  [![HitCount](https://hits.dwyl.com/taylortn/taylortn.svg?style=flat)](http://hits.dwyl.com/taylortn/taylortn)
+  
 <!--
 **taylortn/taylortn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
