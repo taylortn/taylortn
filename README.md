@@ -9,7 +9,7 @@ I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committe
 
  <h2 align="center"></h2>
  
-[![Spotify](https://now-playing-mu.vercel.app/api/spotify)]
+[![Spotify](https://now-playing-murex.vercel.app/api/spotify)](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
 
 
 [![Spotify](https://now-playing-mu.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />]
