@@ -1,5 +1,5 @@
 Hi there 👋🏾 👩🏾‍💻, I'm Ta'Nara
-
+![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 <!--
 
 <img src="https://www.canva.com/design/DAF-IPNYsH4/IH4Cw6H-8hgJgMprdH7LRA/edit?utm_content=DAF-IPNYsH4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner">
