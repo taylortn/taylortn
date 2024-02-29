@@ -16,7 +16,23 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 
 </h3>
 <br>
- 
+ <h2 align="center">
+ <img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>
+ <img width="100" height="100" src="https://img.icons8.com/color/100/amazon-s3.png" alt="amazon-s3"/>
+ <img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
+ <img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
+ <img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+ <img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
+ <img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+ <img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
+ <img width="100" height="100" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
+ <img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
+ <img width="100" height="100" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
+ <img width="100" height="100" src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/logo_Nessus_FullColor_RGB-01.png" alt="tenablenm"/>
+ <img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
+
+<img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>  
+ </h2>
  <h2 align="center">Now Playing 🎧</h2>
 
  
