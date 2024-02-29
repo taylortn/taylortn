@@ -11,7 +11,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 <h2 align="center">Currently Working On🔭</h2>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&random=false&width=435&lines=-Comparing+Scans+from+Tenable+Security+Center+with+the+RHEL%2FWINDOW+instances;+-+Automation+of+EBS+and+AMI+Snapshots;-+Created+KMS+Keys+for+Instances;+-+Encryption+of+EBS+Volume;-+Update+Nessus+Agents;-Updating+Versions;-+GUI+is+up+%26+accessible;-+Health+Checks+to+the+AWS+System;-+Create+Alarms+to+be+emailed+up+CPU+Utilization;-+Installing+Ansible+Playbook+on+Instances;-Deploy+instances+to+Trellix;-+Adding+%26+removing+NACL;-+Creating+ALBs;-+Creating+new+VPCs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&multiline=true&random=false&width=700&height=51&lines=-Comparing+Scans+from+Tenable+Security+Center+with+RHEL%2FWINDOW+instances;+-+Automation+of+EBS+and+AMI+Snapshots;-+Created+KMS+Keys+for+Instances;+-+Encryption+of+EBS+Volume;-+Update+Nessus+Agents;-Updating+Versions;-+GUI+is+up+%26+accessible;-+Health+Checks+to+the+AWS+System;-+Create+Alarms+to+be+emailed+up+CPU+Utilization;-+Installing+Ansible+Playbook+on+Instances;-Deploy+instances+to+Trellix;-+Adding+%26+removing+NACL;-+Creating+ALBs;-+Creating+new+VPCs;Creating+STIGs+Checklist" alt="Typing SVG" /></a>
  </h3>
 <br>
  
