@@ -39,7 +39,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <a href="mailto:tanara.taylor@yahoo.com">
  <img width="100" height="100" src="https://img.icons8.com/clouds/100/yahoo.png" alt="yahoo"/>
  <br>
-  <a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
+  <a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
  </a>
  </a>
 </p>
