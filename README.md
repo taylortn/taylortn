@@ -6,7 +6,24 @@
 <p align="center">
 I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
  <br>
+<h2 align="center">Currently Working On🔭</h2>
+ -Comparing Scans from Tenable Security Center with the RHEL/WINDOW instances
+ -Automation of EBS and AMI Snapshots
+ -Created KMS Keys for Instances
+ - Encryption of EBS Volumes
+ - Update Nessus Agents
+ - Updating Versions
+ - GUI is up & accessible
+ - Health Checks to the AWS System
+ - Create Alarms to be emailed up CPU Utilization
+ - Installing Ansible Playbook on Instances
+ -Deploy instances to Trellex
+ - Adding & removing NACL
+ - Creating ALBs
+ - Creating new VPCs
 
+ <br>
+ 
  <h2 align="center">Now Playing 🎧</h2>
 
  
