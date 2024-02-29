@@ -21,9 +21,9 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 
  
 [![Spotify](https://now-playing-murex.vercel.app/api/spotify)](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
-
-
 <br>
+
+
 <!--
  <details>
  <summary>⚡ GitHub Stats</summary>
@@ -31,12 +31,13 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  -->
 ![Ta'Nara's GitHub stats](https://github-readme-stats-ebon-chi.vercel.app/api?username=taylortn&show_icons=true&theme=radical)
 
+
  <h2 align="center"></h2>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
  <a href="mailto:tanara.taylor@yahoo.com">
-  <a target="_blank" href="https://icons8.com/icon/RKb2uv2oPFnR/yahoo"><a href="mailto:tanara.taylor@yahoo.com"><a target="_blank" href="https://icons8.com"></a> 
+  <link type="image/png" sizes="120x120" rel="icon" href=".../icons8-yahoo-120.png">
  </a>
   </a>
   <a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
