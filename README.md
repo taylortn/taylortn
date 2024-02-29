@@ -7,14 +7,16 @@
 I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
  <br>
 
- <h2 align="center"></h2>
+ <h2 align="center">Now Playing 🎧</h2>
+
  
 [![Spotify](https://now-playing-murex.vercel.app/api/spotify)](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
 
 
-[![Spotify](https://now-playing-mu.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />]
+[<img src="https://now-playing-murex.vercel.app/api/spotify" alt="Ta'Nara Now Playing" width="350" />] (https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
 
- <!--
+
+<!--
  <details>
  <summary>⚡ GitHub Stats</summary>
  </details>
