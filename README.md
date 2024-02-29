@@ -8,6 +8,11 @@ I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committe
  <br>
 
  <h2 align="center"></h2>
+ 
+[![Spotify](https://now-playing-mu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
+[![Spotify](https://now-playing-mu.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />]
 
  <!--
  <details>
