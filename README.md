@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn)
+
 <h1 align="center">Hi there 👋🏾 , I'm </h1>
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
