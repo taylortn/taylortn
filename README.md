@@ -11,7 +11,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 <h2 align="center">Currently Working On🔭</h2>
  <h3 align="center">
 <a href="https://git.io/typing-svg">
-<img src= "https://readme-typing-svg.demolab.com/?lines=-Comparing Scans from Tenable Security Center with the RHEL/WINDOW instances; - Automation of EBS and AMI Snapshots;- Created KMS Keys for Instances;- - Encryption of EBS Volume; - Update Nessus Agents;- Updating Versions;- GUI is up & accessible; - Health Checks to the AWS System;- Create Alarms to be emailed up CPU Utilization;- Create Alarms to be emailed up CPU Utilization;- Installing Ansible Playbook on Instances;-Deploy instances to Trellex;- Adding & removing NACL;- Creating ALBs;- Creating new VPCs; "/>
+<img src= "https://readme-typing-svg.demolab.com/?lines=-Comparing Scans from Tenable Security Center with the RHEL/WINDOW instances; - Automation of EBS and AMI Snapshots;- Created KMS Keys for Instances;- - Encryption of EBS Volume; - Update Nessus Agents;-+Updating+Versions;- GUI is up & accessible; - Health Checks to the AWS System;- Create Alarms to be emailed up CPU Utilization;- Create Alarms to be emailed up CPU Utilization;- Installing Ansible Playbook on Instances;-Deploy instances to Trellex;- Adding & removing NACL;- Creating ALBs;- Creating new VPCs; "/>
 </a>
  </h3>
 <br>
