@@ -2,7 +2,7 @@ Hi there 👋🏾 👩🏾‍💻, I'm Ta'Nara
 
 <img src="GitHub.png" alt="banner">
 
-"C:\Users\Owner\OneDrive - Strategic Education\Documents\Outlook Ladii\OneDrive\Desktop\GitHub\GitHub Profile\GitHub.mp4"
+(https://www.canva.com/design/DAF-IPNYsH4/1tfmrtmClGvylI8jRE7sjg/view?utm_content=DAF-IPNYsH4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 I'm an Infrastructure Cloud Engineer and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
 
