@@ -5,11 +5,11 @@
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 
-<h2 align="center">  Whoami 👩🏾‍💻</h2>
+<h2 align="center">👩🏾‍💻 Just About Me 👩🏾‍💻</h2>
 <p align="center">
 I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
  <br>
-<h2 align="center">Currently Working On🔭</h2>
+<h2 align="center">🔭 Currently Working On🔭</h2>
 
 <h3 align="center">
 
