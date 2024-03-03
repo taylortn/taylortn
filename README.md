@@ -1,7 +1,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
-<h1 align="center">Hey there <img src="https://github.com/taylortn/taylortn/blob/master/images/ca2b03ef-3e92-45a2-8b4c-35c416176885" width="28px" height="28px" alt="waving hand"/> , I'm </h1>
+<h1 align="center">Hey there 
+ 
+<![hello](https://github.com/taylortn/taylortn/assets/161537665/f13fe538-4059-483f-8d2e-78b2d42fc9bb) width="28px" height="28px" alt="waving hand"/> , I'm </h1>
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 
