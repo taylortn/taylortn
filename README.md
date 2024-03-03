@@ -79,7 +79,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <details>
   <summary>⚡Recent GitHub Activities</summary>
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/taylortn/taylortn/issues/1) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
+1. 🔒 Closed issue [#1](https://github.com/taylortn/taylortn/issues/1) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
  </details>
  
