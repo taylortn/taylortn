@@ -1,7 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
-<h1 align="center">Hi there <img src="https://images.emojiterra.com/google/android-11/512px/1f44b-1f3fe.png" width="28px" height="28px" alt="waving hand" /> , I'm </h1>
+<h1 align="center">Hi there <img src="https://github.com/taylortn/taylortn/assets/161537665/ca2b03ef-3e92-45a2-8b4c-35c416176885" width="28px" height="28px" alt="waving hand" /> , I'm </h1>
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 
