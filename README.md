@@ -79,7 +79,7 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <details>
   <summary>⚡Recent GitHub Activities</summary>
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2/issues/10) in [Ade-mir/html-css-js-portfolio-tutorial-2](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2)
+1. 🎉 Merged PR [#2](https://github.com/taylortn/taylortn/pull/2) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
  </details>
  
