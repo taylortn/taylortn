@@ -38,6 +38,9 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <div align="center">
 <img width="100" height="100" src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" alt="security+"/>
  </div>
+ <div align="center">
+<img width="100" height="100" src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/1_Red_Hat_Satellite_6_Administration.png" alt="satellite"/>
+ </div>
  <br>
  <div align="center">
  <h2>🐍 My Contributions 🐍 </h2>
