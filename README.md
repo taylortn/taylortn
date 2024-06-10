@@ -43,6 +43,8 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  </div>
  <br>
  <div align="center">
+  <br>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="64bc32de-7dc7-47bf-8b7c-737b0900013c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
  <h2>🐍 My Contributions 🐍 </h2>
  <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" /> <br/>
