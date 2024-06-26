@@ -98,7 +98,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
 
-<!-- VISUAL STUDO CODE  --> 
+<!-- VISUAL STUDIO CODE  --> 
 
 <img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
@@ -153,7 +153,8 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!--LinkedIn-->
 
-<a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
+<a target="_blank"href="https://www.linkedin.com/in/taylortanara/">
+<img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
  </a>
  </a>
 </p>
