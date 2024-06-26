@@ -38,25 +38,71 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <br>
  <h2 align="center">⚒️Languages Framework Tools ⚒️ </h2>
  <div align="center">
- <img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>
- <img width="100" height="100" src="https://img.icons8.com/color/100/amazon-s3.png" alt="amazon-s3"/>
- <img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
- <img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
- <img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
- <img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
- <img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
- <img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
- <img width="100" height="100" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
- <img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
- <img width="100" height="100" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
-<img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
+
+ <!-- ANSIBLE  -->
+
 <img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
+
+<!-- APPLE  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=uoRwwh0lz3Jp&format=png&color=000000" alt="apple"/>
+
+ <!--AWS-->
+ 
+ <img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>
+
+  <!-- CSS3  --> 
+ 
+ <img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+ 
+ <!--GitHub--> 
+ 
+ <img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
+ 
+ <!-- GitLab  --> 
+
+<img width="100" height="100" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
+
+ <!-- HTML5  --> 
+ <img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
+ 
+ <!-- JIRA  --> 
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira"/>
+
+<!-- MICROSOFT OFFICE  --> 
+ 
+<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
+
+<!-- MICROSOFT TEAMS  -->
+
+<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
+
+<!-- SERVICE NOW  -->
+
+<img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
+
+<!-- SLACK  -->
+
 <img width="100" height="100" src="https://img.icons8.com/?size=100&id=nJcA2q1aR7KO&format=png&color=000000" alt="slack"/>
 
- </div>
- <br>
- <h2 align="center">🥇 Certifications 🥇</h2>
- <div align="center">
+<!-- TENABLE SECURITY CENTER  -->
+
+<img width="100" height="100" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
+
+<!-- TENABLE NESSUS MANAGER  -->
+
+<img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
+
+<!-- VISUAL STUDO CODE  --> 
+
+<img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+
+</div>
+<br>
+<h2 align="center">🥇 <img src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/> Certifications <img src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/>🥇</h2>
+<div align="center">
+
 <img width="100" height="100" src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" alt="security+"/>
  </div>
  <div align="center">
@@ -95,11 +141,16 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  <h2 align="center"></h2>
 
 <h2  align="center">📫 Reach me on</h2>
-<p align="center">
- <a href="mailto:tanara.taylor@yahoo.com">
- <img width="100" height="100" src="https://img.icons8.com/clouds/100/yahoo.png" alt="yahoo"/>
- <br>
-  <a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
+<p align="center"> 
+<!--Email-->
+
+<img width ="100" height= "100" src="https://img.icons8.com/?size=100&id=ZGyhlOMIhde6&format=png&color=000000"/> <a href="mailto:tanara.taylor@yahoo.com">
+
+<img width="100" height="100" src="https://img.icons8.com/clouds/100/yahoo.png" alt="yahoo"/>
+
+<!--LinkedIn-->
+
+<a target="_blank"href="https://www.linkedin.com/in/taylortanara/"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
  </a>
  </a>
 </p>
