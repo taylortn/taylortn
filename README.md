@@ -140,8 +140,8 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taylortn&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  
-![Ta'Nara's GitHub stats](https://github-readme-stats-ebon-chi.vercel.app/api?username=taylortn&show_icons=true&theme=radical)
-</div>
+<!-- ![Ta'Nara's GitHub stats](https://github-readme-stats-ebon-chi.vercel.app/api?username=taylortn&show_icons=true&theme=radical)
+</div> -->
 
  <h2 align="center"></h2>
 
