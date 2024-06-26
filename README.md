@@ -40,6 +40,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Technology Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
  <div align="center">
 
+ <!-- ADOBE  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="adobe"/>
+
+
 <!-- ANSIBLE  -->
 
 <img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
@@ -50,7 +55,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!--AWS-->
  
-<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>
+<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="aws"/>
+
+<!--CREATIVE CLOUD-->
+ 
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
 
 <!-- CSS3  --> 
  
