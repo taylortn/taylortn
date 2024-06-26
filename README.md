@@ -49,6 +49,10 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
 
+<!-- APACHE GUACAMOLE  -->
+
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/apache%20guac3.png" alt="ansible"/>
+
 <!-- APPLE  -->
 
 <img width="100" height="100" src="https://img.icons8.com/?size=100&id=uoRwwh0lz3Jp&format=png&color=000000" alt="apple"/>
