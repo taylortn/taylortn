@@ -122,12 +122,10 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  
  <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/> Now Playing <img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/></h2>
 
-[![Spotify](https://now-playing-two-sigma.vercel.app/)]
+<!-- [![Spotify](https://now-playing-two-sigma.vercel.app/)]
 
-[![Spotify](https://now-playing-m9oyoonsv-tanara-taylors-projects.vercel.app)]
+[![Spotify](https://now-playing-m9oyoonsv-tanara-taylors-projects.vercel.app)] -->
 <br>
-
-
 <!--
  <details>
  <summary>⚡ GitHub Stats</summary>
