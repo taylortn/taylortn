@@ -36,7 +36,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- LANGUAGE ICONS-->
 
 <br>
- <h2 align="center">⚒️Languages Framework Tools ⚒️ </h2>
+ <h2 align="center"> <img width="100" height="100" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Languages Framework Tools <img width="100" height="100" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
  <div align="center">
 
  <!-- ANSIBLE  -->
