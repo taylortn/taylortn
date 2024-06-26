@@ -150,15 +150,13 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=ZGyhlOMIhde6&format=png&color=000000" alt="yahoo"/>
  <br>
 
+<!--Yahoo Email-->
 
 <img width ="50" height= "50" src="https://img.icons8.com/?size=100&id=ZGyhlOMIhde6&format=png&color=000000"/> <a href="mailto:tanara.taylor@yahoo.com">
 
-<img width="50" height="50" src="https://img.icons8.com/clouds/100/yahoo.png" alt="yahoo"/>
-
 <!--LinkedIn-->
 
-<a target="_blank"href="https://www.linkedin.com/in/taylortanara/">
-<img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
+ <a target="_blank" href="https://www.linkedin.com/in/taylortanara/"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin"/>
  </a>
  </a>
 </p>
