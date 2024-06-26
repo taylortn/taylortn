@@ -116,7 +116,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/Cloud%20Practioner.png" alt="AWS Cloud Practitioner"/>
 
 <br>
- <h2 align="center>🐍 My Contributions 🐍 </h2>
+ <h2>🐍 My Contributions 🐍 </h2>
  <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" /> <br/>
  </div>
