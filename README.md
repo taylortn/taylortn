@@ -100,7 +100,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 </div>
 <br>
-<h2 align="center">🥇 <img width="100" height="100" src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/> Certifications <img width="100" height="100" src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/>🥇</h2>
+<h2 align="center"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/> Certifications <img width="50" height="50" src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/></h2>
 <div align="center">
 
 <img width="100" height="100" src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" alt="security+"/>
