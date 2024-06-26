@@ -1,23 +1,39 @@
+<!-- VISITOR'S BADGE-->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
+<!--HEADING-->
+
 <h1 align="center">Hey there 👋🏾 , I'm </h1>
+
+<!--BANNER-->
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 
+<!--INTRODUCTION-->
+
 <h2 align="center">👩🏾‍💻 Just About Me 👩🏾‍💻</h2>
 <p align="center">
-I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
- <br>
+I'm currently Infra Transformation Senior Analyst in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in Amazon Web Services, Tenable Nessus Manager, Tenable Security Center, Trellix EndPoint Security, and other software installations.
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn" alt="taylortn" /></a> </p>
+<br>
+
+Cloud Infrastructure Specialist with extensive experience in AWS, cloud security, and infrastructure automation. Seeking a position at a forward-thinking company where I can leverage my technical expertise to design, deploy, and manage robust cloud solutions.<br>
+
+<br>
+
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn" alt="taylortn" /></a> </p>
  
+ <!-- CURRENT WORKING STATUS -->
+
 <h2 align="center">🔭 Currently Working On🔭</h2>
 
 <h3 align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=700&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center+with+RHEL%2FWINDOW+instances;+-+Automation+of+EBS+and+AMI+Snapshots;-+Created+KMS+Keys+for+Instances;+-+Encryption+of+EBS+Volume;-+Update+Nessus+Agents;-+Updating+Versions;-+GUI+is+up+%26+accessible;-+Health+Checks+to+the+AWS+System;-+Create+Alarms+to+be+emailed+up+CPU+Utilization;-+Installing+Ansible+Playbook+on+Instances;-+Deploy+instances+to+Trellix;-+Adding+%26+removing+NACL;-+Creating+ALBs;-+Creating+new+VPCs;-+Creating+STIG+Checklists" alt="Typing SVG" /></a>
 </h3>
+
+<!-- LANGUAGE ICONS-->
 
 <br>
  <h2 align="center">⚒️Languages Framework Tools ⚒️ </h2>
@@ -35,6 +51,8 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
  <img width="100" height="100" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
 <img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
 <img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=nJcA2q1aR7KO&format=png&color=000000" alt="slack"/>
+
  </div>
  <br>
  <h2 align="center">🥇 Certifications 🥇</h2>
