@@ -1,12 +1,4 @@
 
-<style>
-    .font-family
-    {
-        font-family: 'Because I am Happy Regular', sans-serif;
-    }
-    
-</style>
-
 <!-- VISITOR'S BADGE-->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
