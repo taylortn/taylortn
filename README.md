@@ -147,7 +147,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <p align="center"> 
 <img width ="30" height= "30" <a href="mailto:tanara.taylor@yahoo.com">
 
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/yahoo.png" alt="yahoo"/>
+<img width="30" height="30" src="https://img.icons8.com/clouds/100/yahoo.png" alt="yahoo"/>
 
 <!--LinkedIn-->
 
