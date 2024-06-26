@@ -65,8 +65,6 @@ I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Sp
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylortn&show_icons=true&locale=en" alt="taylortn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taylortn&" alt="taylortn" /></p>
-
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taylortn&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  
