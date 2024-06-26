@@ -9,6 +9,7 @@
 <p align="center">
 I'm an Infrastructure Cloud Engineer in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in AWS, Nessus Scans, and software installations.
  <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylortn&label=Profile%20views&color=0e75b6&style=flat" alt="taylortn" /> </p>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn" alt="taylortn" /></a> </p>
  
