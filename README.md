@@ -122,10 +122,14 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  
  <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/> Now Playing <img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/></h2>
 
-[![Spotify](https://now-playing-two-sigma.vercel.app/api/spotify)]
+[![Spotify](https://now-playing-two-sigma.vercel.app/)]
 
-[![Spotify](https://now-playing-tanara-taylors-projects.vercel.app/api/spotify)]
+[![Spotify](https://now-playing-tanara-taylors-projects.vercel.app)]
 <br>
+
+<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
+    <img src="https://now-playing-tanara-taylors-projects.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 <!--
  <details>
