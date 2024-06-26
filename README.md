@@ -120,9 +120,10 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" /> <br/>
  </div>
  
- <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/> Now Playing <<img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/></h2>
- 
+ <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/> Now Playing <img width="30" height="30" src="https://img.icons8.com/?size=100&id=52979&format=png&color=000000"/></h2>
+ <!--
 [![Spotify](https://now-playing-murex.vercel.app/api/spotify)](https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e)
+-->
 <br>
 
 
