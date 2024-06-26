@@ -114,11 +114,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <img width="100" height="100" src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" alt="security+"/>
  </div>
  <div align="center">
-<img width="100" height="100" src="./images/Red_Hat_Satellite_6_Administration" alt="satellite"/>
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/Red_Hat_Satellite_6_Administration.png" alt="satellite"/>
  </div>
  <br>
  <div align="center">
-<img width="100" height="100" src="https://www.credly.com/badges/64bc32de-7dc7-47bf-8b7c-737b0900013c/public_url" alt="AWS Cloud Practitioner"/>
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/Cloud%20Practioner.png" alt="AWS Cloud Practitioner"/>
  </div>
 
  <h2>🐍 My Contributions 🐍 </h2>
