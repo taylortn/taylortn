@@ -124,6 +124,8 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 [![Spotify](https://now-playing-m9oyoonsv-tanara-taylors-projects.vercel.app/api/spotify)][Spotify]
 
+[![Spotify](https://m9oyoonsv.vercel.app/api/spotify)]
+
 <br>
 
 <!--
