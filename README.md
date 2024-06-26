@@ -1,6 +1,7 @@
 
 <style>
-    .custom-font-1 {
+    .font-family
+    {
         font-family: 'Because I am Happy Regular', sans-serif;
     }
     
