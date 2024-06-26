@@ -13,7 +13,6 @@
 <!--INTRODUCTION-->
 
 <h2 align="center">👩🏾‍💻 Just About Me 👩🏾‍💻</h2>
-<p align="center">
 I'm currently Infra Transformation Senior Analyst in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in Amazon Web Services, Tenable Nessus Manager, Tenable Security Center, Trellix EndPoint Security, and other software installations.
 
 <br>
