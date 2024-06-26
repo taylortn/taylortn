@@ -26,7 +26,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
  
  <!-- CURRENT WORKING STATUS -->
 
-<h2 align="center">🔭 Currently Working On🔭</h2>
+<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=L6MlWfmzACXP&format=png&color=000000"/> Currently Working On <img width="30" height="30" src="https://img.icons8.com/?size=100&id=L6MlWfmzACXP&format=png&color=000000"/></h2>
 
 <h3 align="center">
 
@@ -36,7 +36,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- LANGUAGE ICONS-->
 
 <br>
- <h2 align="center"> <img width="100" height="100" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Languages Framework Tools <img width="100" height="100" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+ <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Languages Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
  <div align="center">
 
  <!-- ANSIBLE  -->
