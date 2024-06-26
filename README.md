@@ -161,7 +161,7 @@ Check Out LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/taylort
  <h2 align="center"></h2>
 
 <details>
-<summary> <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000Recent" Recent GitHub Activities <img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000"/></summary>
+<summary> <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000Recent"/> Recent GitHub Activities <img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000"/></summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/taylortn/taylortn/pull/2) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
