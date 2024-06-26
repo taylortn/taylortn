@@ -34,10 +34,10 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=700&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center+with+RHEL%2FWINDOW+instances;+-+Automation+of+EBS+and+AMI+Snapshots;-+Created+KMS+Keys+for+Instances;+-+Encryption+of+EBS+Volume;-+Update+Nessus+Agents;-+Updating+Versions;-+GUI+is+up+%26+accessible;-+Health+Checks+to+the+AWS+System;-+Create+Alarms+to+be+emailed+up+CPU+Utilization;-+Installing+Ansible+Playbook+on+Instances;-+Deploy+instances+to+Trellix;-+Adding+%26+removing+NACL;-+Creating+ALBs;-+Creating+new+VPCs;-+Creating+STIG+Checklists" alt="Typing SVG" /></a>
 </h3>
 
-<!-- LANGUAGE ICONS-->
+<!-- TECH LANGUAGE ICONS-->
 
 <br>
- <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+ <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Technology Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
  <div align="center">
 
 <!-- ANSIBLE  -->
