@@ -14,6 +14,7 @@
 <!--INTRODUCTION-->
 
 <h3 align="center">  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/>Just About Me <img width="50" height="50" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/></h3>
+<br>
 <p>
 I'm currently Infra Transformation Senior Analyst in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in Amazon Web Services, Tenable Nessus Manager, Tenable Security Center, Trellix EndPoint Security, and other software installations.
 </p>
