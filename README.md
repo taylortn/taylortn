@@ -37,7 +37,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- CI/CD ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>CI/CD Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/ci.cd%20pipeline.png"/>CI/CD Tools <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/ci.cd%20pipeline.png"/> </h2>
 <div align="center">
 
 <!--GitHub--> 
@@ -47,6 +47,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- GitLab  --> 
 
 <img width="100" height="100" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
+
 <!-- DATABASE / ORM ICONS-->
 
 <br>
