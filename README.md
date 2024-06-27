@@ -42,8 +42,9 @@ I'm currently Infra Transformation Senior Analyst in the DMV Area; and aspiring 
 Cloud Infrastructure Specialist with extensive experience in AWS, cloud security, and infrastructure automation. Seeking a position at a forward-thinking company where I can leverage my technical expertise to design, deploy, and manage robust cloud solutions.<br>
 
 <br>
+<!--TROPHY ICONS-->
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn" alt="taylortn" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn&row=2&column=4" alt="taylortn" /></a> </p>
  
  <!-- CURRENT WORKING STATUS -->
 
