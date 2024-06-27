@@ -13,8 +13,7 @@
 
 <!-- SOCIAL BUTTONS -->
 
-<h2  align="center">📫 Reach me on</h2>
-
+<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=1TWw0QHHlt31&format=png&color=000000"/> Reach Me <img width="30" height="30" src="https://img.icons8.com/?size=100&id=1TWw0QHHlt31&format=png&color=000000"/></h2>
 <!--EMAIL-->
 
 <!--Yahoo Email-->
