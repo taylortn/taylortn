@@ -103,7 +103,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- FRAMEWORKS,PLATFORMS & LIBRARIES ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Frameworks, Platforms & Libraries <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=2385&format=png&color=000000"/>Frameworks, Platforms & Libraries <img width="30" height="30" src="https://img.icons8.com/?size=100&id=2385&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!-- TENABLE SECURITY CENTER  -->
@@ -117,7 +117,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- HOSTING/SaaS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Hosting/SaaS <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=XQNO7wSRlbm3&format=png&color=000000"/>Hosting/SaaS <img width="30" height="30" src="https://img.icons8.com/?size=100&id=XQNO7wSRlbm3&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!--AWS-->
@@ -143,7 +143,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- INFRASTRUCTURE TOOLS -->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Infrastructure Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=ebPQoT8q00pt&format=png&color=000000"/>Infrastructure Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=ebPQoT8q00pt&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!--RED HAT-->
@@ -152,7 +152,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- IDE TOOLS -->
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000"/> Integrated Development Environment (IDE) <img width="30" height="30" src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!-- VISUAL STUDIO CODE  --> 
@@ -162,7 +162,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!--LANGUAGE ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=G0rXjLTKU0Ye&format=png&color=000000"/>Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=G0rXjLTKU0Ye&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!-- CSS3  --> 
@@ -176,17 +176,17 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- ML/DL ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>ML/DL Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=NL90I8YT1YnN&format=png&color=000000"/>ML/DL Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=NL90I8YT1YnN&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!-- PANDAS  --> 
  
-<img width="100" height="100" src="" alt="css3"/>
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/pandas_logo.png" alt="css3"/>
 
 <!-- SERVER ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Server Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=43653&format=png&color=000000"/>Server Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=43653&format=png&color=000000"/> </h2>
 <div align="center">
 
 <!-- APACHE GUACAMOLE  -->
@@ -196,7 +196,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- OTHERS ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Other Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=cc3cXGydaPtm&format=png&color=000000"/>Other Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=cc3cXGydaPtm&format=png&color=000000"/> </h2>
 <div align="center">
 
  <!-- ANSIBLE  -->
@@ -215,7 +215,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!--CERTIFICATIONS-->
 
-<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/> Certifications <img width="30" height="30" src="https://img.icons8.com/?size=100&id=GFXPq4c6LWMW&format=png&color=000000"/></h2>
+<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=dvsOEzqniDma&format=png&color=000000"/> Certifications <img width="30" height="30" src="https://img.icons8.com/?size=100&id=dvsOEzqniDma&format=png&color=000000"/></h2>
 
 <img width="100" height="100" src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" alt="security+"/>
 
