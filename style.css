@@ -1,11 +1,17 @@
 /* // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 200 to 800 */
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&display=swap');
+
+
 .biorhyme-uniquifier {
   font-family: "BioRhyme", serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
   font-variation-settings:
     "wdth" 100;
 }
