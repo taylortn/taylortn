@@ -13,7 +13,7 @@
 
 <!--INTRODUCTION-->
 
-<h2 align="center">  <img width="30" height="30" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/>Just About Me <img width="30" height="30" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/></h2>
+<h2 align="center">  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/>Just About Me <img width="50" height="50" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/></h2>
 <p>
 I'm currently Infra Transformation Senior Analyst in the DMV Area; and aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in Amazon Web Services, Tenable Nessus Manager, Tenable Security Center, Trellix EndPoint Security, and other software installations.
 </p>
@@ -34,41 +34,12 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=700&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center+with+RHEL%2FWINDOW+instances;+-+Automation+of+EBS+and+AMI+Snapshots;-+Created+KMS+Keys+for+Instances;+-+Encryption+of+EBS+Volume;-+Update+Nessus+Agents;-+Updating+Versions;-+GUI+is+up+%26+accessible;-+Health+Checks+to+the+AWS+System;-+Create+Alarms+to+be+emailed+up+CPU+Utilization;-+Installing+Ansible+Playbook+on+Instances;-+Deploy+instances+to+Trellix;-+Adding+%26+removing+NACL;-+Creating+ALBs;-+Creating+new+VPCs;-+Creating+STIG+Checklists" alt="Typing SVG" /></a>
 </h3>
 
-<!-- TECH LANGUAGE ICONS-->
+<!-- CI/CD ICONS-->
 
 <br>
- <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Technology Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
- <div align="center">
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>CI/CD Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
 
- <!-- ADOBE  -->
-
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="adobe"/>
-
-
-<!-- ANSIBLE  -->
-
-<img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
-
-<!-- APACHE GUACAMOLE  -->
-
-<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/apache%20guac3.png" alt="ansible"/>
-
-<!-- APPLE  -->
-
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=uoRwwh0lz3Jp&format=png&color=000000" alt="apple"/>
-
-<!--AWS-->
- 
-<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="aws"/>
-
-<!--CREATIVE CLOUD-->
- 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
-
-<!-- CSS3  --> 
- 
-<img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
- 
 <!--GitHub--> 
  
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
@@ -76,33 +47,31 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- GitLab  --> 
 
 <img width="100" height="100" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
+<!-- DATABASE / ORM ICONS-->
 
-<!-- HTML5  --> 
-<img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Database / ORM Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!-- DESIGN ICONS-->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Design Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!-- ADOBE  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="adobe"/>
+
+<!--CREATIVE CLOUD-->
  
-<!-- JIRA  --> 
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira"/>
+<!-- FRAMEWORKS,PLATFORMS & LIBRARIES ICONS-->
 
-<!-- MICROSOFT OFFICE  --> 
- 
-<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
-
-<!-- MICROSOFT TEAMS  -->
-
-<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
-
-<!--RED HAT-->
-
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/>
-
-<!-- SERVICE NOW  -->
-
-<img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
-
-<!-- SLACK  -->
-
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=nJcA2q1aR7KO&format=png&color=000000" alt="slack"/>
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Frameworks, Platforms & Libraries <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
 
 <!-- TENABLE SECURITY CENTER  -->
 
@@ -112,9 +81,98 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
 
+<!-- HOSTING/SaaS-->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Hosting/SaaS <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!--AWS-->
+ 
+<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="aws"/>
+
+<!-- MICROSOFT OFFICE  --> 
+ 
+<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
+
+<!-- MICROSOFT TEAMS  -->
+
+<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
+
+<!-- SERVICE NOW  -->
+
+<img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
+
+<!-- SLACK  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=nJcA2q1aR7KO&format=png&color=000000" alt="slack"/>
+
+<!-- INFRASTRUCTURE TOOLS -->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Infrastructure Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!-- IDE TOOLS -->
+
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>
+<br>
+
 <!-- VISUAL STUDIO CODE  --> 
 
 <img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+
+<!-- TECH LANGUAGE ICONS-->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!-- CSS3  --> 
+ 
+<img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+<!-- HTML5  --> 
+<img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
+
+
+<!--RED HAT-->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/>
+
+<!-- ML/DL ICONS-->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>ML/DL Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!-- SERVER ICONS-->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Server Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+<!-- APACHE GUACAMOLE  -->
+
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/apache%20guac3.png" alt="guacamole"/>
+
+<!-- OTHERS ICONS-->
+
+<br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Other Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<div align="center">
+
+ <!-- ANSIBLE  -->
+
+<img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
+
+<!-- APPLE  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=uoRwwh0lz3Jp&format=png&color=000000" alt="apple"/>
+
+<!-- JIRA  --> 
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira"/>
 
 <br>
 
