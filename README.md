@@ -113,10 +113,13 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Infrastructure Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
 <div align="center">
 
-<!-- IDE TOOLS -->
+<!--RED HAT-->
 
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/>
+
+<!-- IDE TOOLS -->
 <br>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>
 
 <!-- VISUAL STUDIO CODE  --> 
 
@@ -133,12 +136,8 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 <!-- HTML5  --> 
+
 <img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
-
-
-<!--RED HAT-->
-
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/>
 
 <!-- ML/DL ICONS-->
 
