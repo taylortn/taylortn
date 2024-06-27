@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&display=swap');
+
+
+.biorhyme-uniquifier {
+  font-family: "BioRhyme", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  font-variation-settings:
+    "wdth" 100;
+}
