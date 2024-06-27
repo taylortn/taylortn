@@ -11,6 +11,25 @@
 
 ![GitHub](https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed)
 
+<!-- SOCIAL BUTTONS -->
+
+<h2  align="center">📫 Reach me on</h2>
+
+<!--EMAIL-->
+
+<!--Yahoo Email-->
+
+<div align="center">
+   <a href="mailto:tanara.taylor@yahoo.com"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=ZGyhlOMIhde6&format=png&color=000000" alt="yahoo"/>
+   </a>
+ <!--LinkedIn-->
+
+<a target="_blank" href="https://www.linkedin.com/in/taylortanara/"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin"/>
+</a>
+</div>
+</p>
+ <h2 align="center"></h2>
+
 <!--INTRODUCTION-->
 
 <h2 align="center">  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/>Just About Me <img width="50" height="50" src="https://img.icons8.com/?size=100&id=111416&format=png&color=000000"/></h2>
@@ -249,25 +268,6 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 </div> -->
 
  <h2 align="center"></h2>
-
-<h2  align="center">📫 Reach me on</h2>
-
-<!--EMAIL-->
-
-<!--Yahoo Email-->
-
-Email Me: <a href="mailto:tanara.taylor@yahoo.com">
- <img width="50" height="50" src="https://img.icons8.com/?size=100&id=ZGyhlOMIhde6&format=png&color=000000" alt="yahoo"/>
- <br>
-
-<!--LinkedIn-->
-
-Check Out LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/taylortanara/"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin"/>
- </a>
- </a>
-</p>
- <h2 align="center"></h2>
-
 
 <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000Recent"/> Recent GitHub Activities <img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000"/>
 </h2>
