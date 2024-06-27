@@ -63,11 +63,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!--GitHub--> 
  
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
+<img width="50" height="50" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
  
 <!-- GitLab  --> 
 
-<img width="100" height="100" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
+<img width="50" height="50" src="https://img.icons8.com/color/100/gitlab.png" alt="gitlab"/>
 
 <!-- DATABASE / ORM ICONS-->
 
@@ -83,43 +83,43 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- ADOBE  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="adobe"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="adobe"/>
 
 <!-- ADOBE ACROBAT READER  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=rZObyIJRui2T&format=png&color=000000" alt="adobe reader"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=rZObyIJRui2T&format=png&color=000000" alt="adobe reader"/>
 
 <!--CREATIVE CLOUD-->
  
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
 
 <!-- ADOBE ILLUSTARTOR  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" alt="adobe illustrator"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" alt="adobe illustrator"/>
 
 <!-- ADOBE INDESIGN  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=13675&format=png&color=000000" alt="adobe indesign"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=13675&format=png&color=000000" alt="adobe indesign"/>
 
 <!-- ADOBE LIGHTROOM  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=cAVP5AOANxnf&format=png&color=000000" alt="adobe lightroom"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=cAVP5AOANxnf&format=png&color=000000" alt="adobe lightroom"/>
 
 <!-- ADOBE PHOTSHOP  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="adobe photoshop"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="adobe photoshop"/>
 
 <!--CREATIVE CLOUD-->
  
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=omuSvqfyybfC&format=png&color=000000" alt="adobe creative cloud"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=omuSvqfyybfC&format=png&color=000000" alt="adobe creative cloud"/>
 
 <!--GIMP-->
  
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
 
 <!--INKSCAPE-->
  
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=TiCZ0GzuDmrw&format=png&color=000000" alt="adobe creative cloud"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=TiCZ0GzuDmrw&format=png&color=000000" alt="adobe creative cloud"/>
 
 <!-- FRAMEWORKS,PLATFORMS & LIBRARIES ICONS-->
 
@@ -129,11 +129,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- TENABLE SECURITY CENTER  -->
 
-<img width="100" height="100" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
+<img width="50" height="50" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" alt="tenable"/>
 
 <!-- TENABLE NESSUS MANAGER  -->
 
-<img width="100" height="100" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
+<img width="50" height="50" src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" alt="tenablenmagent"/>
 
 <!-- HOSTING/SaaS-->
 
@@ -143,23 +143,23 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!--AWS-->
  
-<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="aws"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="aws"/>
 
 <!-- MICROSOFT OFFICE  --> 
  
-<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/100/microsoft-office-2019.png" alt="microsoft-office-2019"/>
 
 <!-- MICROSOFT TEAMS  -->
 
-<img width="100" height="100" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
 
 <!-- SERVICE NOW  -->
 
-<img width="100" height="100" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
+<img width="50" height="50" src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" alt="servicenow"/>
 
 <!-- SLACK  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=nJcA2q1aR7KO&format=png&color=000000" alt="slack"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=nJcA2q1aR7KO&format=png&color=000000" alt="slack"/>
 
 <!-- INFRASTRUCTURE TOOLS -->
 
@@ -169,7 +169,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!--RED HAT-->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/>
 
 <!-- IDE TOOLS -->
 <br>
@@ -178,7 +178,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- VISUAL STUDIO CODE  --> 
 
-<img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code"/>
 
 <!--LANGUAGE ICONS-->
 
@@ -188,11 +188,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- CSS3  --> 
  
-<img width="100" height="100" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 <!-- HTML5  --> 
 
-<img width="100" height="100" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
+<img width="50" height="50" src="https://img.icons8.com/color/100/html-5--v2.png" alt="html-5--v2"/>
 
 <!-- ML/DL ICONS-->
 
@@ -202,7 +202,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- PANDAS  --> 
  
-<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/pandas_logo.png" alt="css3"/>
+<img width="50" height="50" src="https://github.com/taylortn/taylortn/blob/main/images/pandas_logo.png" alt="css3"/>
 
 <!-- SERVER ICONS-->
 
@@ -212,7 +212,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- APACHE GUACAMOLE  -->
 
-<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/apache%20guac3.png" alt="guacamole"/>
+<img width="50" height="50" src="https://github.com/taylortn/taylortn/blob/main/images/apache%20guac3.png" alt="guacamole"/>
 
 <!-- OTHERS ICONS-->
 
@@ -222,15 +222,15 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
  <!-- ANSIBLE  -->
 
-<img width="100" height="100" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
+<img width="50" height="50" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png" alt="ansible"/>
 
 <!-- APPLE  -->
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=uoRwwh0lz3Jp&format=png&color=000000" alt="apple"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=uoRwwh0lz3Jp&format=png&color=000000" alt="apple"/>
 
 <!-- JIRA  --> 
 
-<img width="100" height="100" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira"/>
 
 <br>
 
