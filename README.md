@@ -115,7 +115,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <!-- IDE TOOLS -->
 
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>
+<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>
 <br>
 
 <!-- VISUAL STUDIO CODE  --> 
