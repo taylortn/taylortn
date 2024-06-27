@@ -275,5 +275,5 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/taylortn/badges/pull/5) in [taylortn/badges](https://github.com/taylortn/badges)
+1. 🎉 Merged PR [#6](https://github.com/taylortn/badges/pull/6) in [taylortn/badges](https://github.com/taylortn/badges)
 <!--END_SECTION:activity-->
