@@ -1,7 +1,6 @@
-<html>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&display=swap');
-</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&display=swap" rel="stylesheet">
 
 <!-- VISITOR'S BADGE-->
 
@@ -278,7 +277,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 1. 🎉 Merged PR [#2](https://github.com/taylortn/taylortn/pull/2) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
 
-</html>
+
  
  
  <!--
