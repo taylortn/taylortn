@@ -51,22 +51,54 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- DATABASE / ORM ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Database / ORM Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/orm.png"/> Database / ORM Tools <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/orm.png"/> </h2>
 <div align="center">
 
 <!-- DESIGN ICONS-->
 
 <br>
-<h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Design Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
+<h2 align="center"> <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/IN_DEsignthinking_Cover-1.png"/>Design Tools <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/IN_DEsignthinking_Cover-1.png"/> </h2>
 <div align="center">
 
 <!-- ADOBE  -->
 
 <img width="100" height="100" src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="adobe"/>
 
+<!-- ADOBE ACROBAT READER  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=rZObyIJRui2T&format=png&color=000000" alt="adobe reader"/>
+
 <!--CREATIVE CLOUD-->
  
 <img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
+
+<!-- ADOBE ILLUSTARTOR  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" alt="adobe illustrator"/>
+
+<!-- ADOBE INDESIGN  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=13675&format=png&color=000000" alt="adobe indesign"/>
+
+<!-- ADOBE LIGHTROOM  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=cAVP5AOANxnf&format=png&color=000000" alt="adobe lightroom"/>
+
+<!-- ADOBE PHOTSHOP  -->
+
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="adobe photoshop"/>
+
+<!--CREATIVE CLOUD-->
+ 
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=omuSvqfyybfC&format=png&color=000000" alt="adobe creative cloud"/>
+
+<!--GIMP-->
+ 
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=41359&format=png&color=000000" alt="adobe creative cloud"/>
+
+<!--INKSCAPE-->
+ 
+<img width="100" height="100" src="https://img.icons8.com/?size=100&id=TiCZ0GzuDmrw&format=png&color=000000" alt="adobe creative cloud"/>
 
 <!-- FRAMEWORKS,PLATFORMS & LIBRARIES ICONS-->
 
@@ -127,7 +159,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code"/>
 
-<!-- TECH LANGUAGE ICONS-->
+<!--LANGUAGE ICONS-->
 
 <br>
 <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>Language Framework Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
@@ -146,6 +178,10 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <br>
 <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>ML/DL Tools <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> </h2>
 <div align="center">
+
+<!-- PANDAS  --> 
+ 
+<img width="100" height="100" src="" alt="css3"/>
 
 <!-- SERVER ICONS-->
 
