@@ -1,3 +1,7 @@
+<html>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&display=swap');
+</style>
 
 <!-- VISITOR'S BADGE-->
 
@@ -274,7 +278,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 1. 🎉 Merged PR [#2](https://github.com/taylortn/taylortn/pull/2) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
 
- 
+</html>
  
  
  <!--
@@ -292,6 +296,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-[def]: https://open.spotify.com/user/312u2ozgni7szbjo3gx5l6lhpi5e
