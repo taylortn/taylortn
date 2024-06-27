@@ -21,10 +21,9 @@
 <div align="center">
    <a href="mailto:tanara.taylor@yahoo.com"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=ZGyhlOMIhde6&format=png&color=000000" alt="yahoo"/>
    </a>
- <!--LinkedIn-->
-
-<a target="_blank" href="https://www.linkedin.com/in/taylortanara/"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin"/>
-</a>
+<!--LinkedIn-->
+  <a target="_blank" href="https://www.linkedin.com/in/taylortanara/"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin"/>
+  </a>
 </div>
 </p>
  <h2 align="center"></h2>
