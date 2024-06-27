@@ -120,7 +120,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <!-- IDE TOOLS -->
 <br>
 <h2 align="center"> <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/> Integrated Development Environment (IDE) <img width="30" height="30" src="https://img.icons8.com/?size=100&id=119075&format=png&color=000000"/>
-
+<br>
 <!-- VISUAL STUDIO CODE  --> 
 <br>
 <img width="100" height="100" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code"/>
