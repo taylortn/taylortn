@@ -44,7 +44,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 <br>
 <!--TROPHY ICONS-->
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn&row=2&column=4" alt="taylortn" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylortn&row=2&column=4&margin-w=15&margin-h=15&theme=algolia" alt="taylortn" /></a> </p>
  
  <!-- CURRENT WORKING STATUS -->
 
