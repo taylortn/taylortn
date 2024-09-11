@@ -244,7 +244,11 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/Cloud%20Practioner.png" alt="AWS Cloud Practitioner"/>
 
-<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/aws-certified-solutions-architect-associate.png" alt="AWS Cloud Practitioner"/>
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect"/>
+
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/introduction to finops.png" alt="Introduction to FinOps"/>
+
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/introduction to FOCUS" alt="Introduction to FOCUS"/>
 
 <br>
  <h2 align="center"><img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/contribution.png"/> My Contributions <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/contribution.png"/></align></h2>
@@ -272,6 +276,7 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 </div> -->
 
  <h2 align="center"></h2>
+![Introduction to FinOps](https://github.com/user-attachments/assets/2ce16736-d854-4970-8d43-4cc5d46b0e3f)
 
 <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000Recent"/> Recent GitHub Activities <img width="30" height="30" src="https://img.icons8.com/?size=100&id=81155&format=png&color=000000"/>
 </h2>
