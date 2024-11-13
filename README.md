@@ -246,6 +246,9 @@ Cloud Infrastructure Specialist with extensive experience in AWS, cloud security
 
 <img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect"/>
 
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/Introduction%20to%20FinOps.png" alt="Introduction to FinOps"/>
+
+<img width="100" height="100" src="https://github.com/taylortn/taylortn/blob/main/images/Introduction%20to%20Focus.png" alt="Introduction to FOCUS"/>
 <br>
  <h2 align="center"><img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/contribution.png"/> My Contributions <img width="30" height="30" src="https://github.com/taylortn/taylortn/blob/main/images/contribution.png"/></align></h2>
  <br>
