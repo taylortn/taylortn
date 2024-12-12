@@ -37,8 +37,6 @@
 <p>
 I'm currently a Custom Software Engineer in the DMV Area, and an aspiring IT Support Specialist committed to excellence. Seeking a challenging position at a forward-thinking company where I can leverage my technical expertise and innovative mindset to safeguard organizational systems against security threats. Passionate about educating others in technology, I aim to bridge the gap between complex IT concepts and practical solutions. Proficient in Amazon Web Services, Tenable Nessus Manager, Tenable Security Center, Trellix EndPoint Security, and other software installations.
 </p>
-<br>
-
 Cloud Infrastructure Specialist with extensive experience in AWS, cloud security, and infrastructure automation. Seeking a position at a forward-thinking company where I can leverage my technical expertise to design, deploy, and manage robust cloud solutions.<br>
 
 <br>
