@@ -76,9 +76,9 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 
 ## ☁️ Hosting/SaaS
 <p align="center">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/aws.png" width="50"/>
+  <img src="images/amazon-web-services-aws-seeklogo.png" width="50"/>
   <img src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" width="50"/>
-  <img src="https://seeklogo.com/images/S/servicenow-agent-logo-F71A6DAFCE-seeklogo.com.png" width="50"/>
+  <img src="images/servicenow-seeklogo.png" width="50"/>
 </p>
 
 <!-- Additional sections omitted for brevity, but would follow same pattern -->
