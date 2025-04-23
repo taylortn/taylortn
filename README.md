@@ -96,6 +96,17 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
   <img src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
 </p>
 
+<!-- COMMIT -->
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
 <!-- STATS -->
 ## 🔥 GitHub Stats
 <p align="center">
