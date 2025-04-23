@@ -8,8 +8,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
 <!-- TITLE & BANNER -->
-<h1 align="center"> Welcome to my corner of GitHub!  
-Hey there 👋🏾, I'm Ta'Nara Taylor</h1>
+<h1 align="center"> Welcome to my corner of GitHub!</center>
+<center>Hey there 👋🏾, I'm Ta'Nara Taylor</h1></center>
 
 <p align="center">
   <img src="https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed" alt="GitHub Banner"/>
@@ -18,6 +18,7 @@ Hey there 👋🏾, I'm Ta'Nara Taylor</h1>
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
 - [About Me](#-about-me)
+- [Resume](#-resume)
 - [Currently Working On](#-currently-working-on)
 - [CI/CD Tools](#-cicd-tools)
 - [Database / ORM Tools](#-database--orm-tools)
@@ -49,7 +50,11 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 
 ## 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-pink?style=for-the-badge)](https://github.com/taylortn/taylortn/blob/root/resume/TaNara.Taylor%20Resume.pdf?raw=true)
+[![Download Resume][![📄 My Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/main/TaNara_Taylor_Resume.docx?raw=true)
+[![📄 Resume](https://img.shields.io/badge/📄%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/main/TaNara_Taylor_Resume.docx?raw=true)
+<!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
+[![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-cb5087?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylortanara)
+[![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
 
 <!-- CURRENT PROJECTS -->
 ## 🧠 Currently Working On
