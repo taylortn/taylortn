@@ -8,7 +8,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
 <!-- TITLE & BANNER -->
-<h1 align="center">Hey there 👋🏾, I'm Ta'Nara Taylor</h1>
+<h1 align="center"> Welcome to my corner of GitHub!  Hey there 👋🏾, I'm Ta'Nara Taylor</h1>
 
 <p align="center">
   <img src="https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed" alt="GitHub Banner"/>
@@ -42,8 +42,13 @@ Currently, I specialize in:
 - 🔐 Cybersecurity tools like **Tenable Nessus Manager**, **Tenable Security Center**, and **Trellix EndPoint Security**
 - ☁️ Cloud Infrastructure (AWS, EC2, S3, VPC, ALBs, IAM)
 - 🛠️ Automation with Ansible and Infrastructure as Code
+- 🌱 Always learning: [New tech you're learning]
 
 I'm also passionate about mentoring, uplifting others in tech, and bridging gaps between tech and community.
+
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-pink?style=for-the-badge)](https://github.com/taylortn/taylortn/blob/root/resume/TaNara.Taylor%20Resume.pdf?raw=true)
 
 <!-- CURRENT PROJECTS -->
 ## 🧠 Currently Working On
