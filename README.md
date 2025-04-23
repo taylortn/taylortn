@@ -87,7 +87,7 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 ## 📜 Certifications
 <p align="center">
   <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" width="100"/>
-  <img src="https://github.com/taylortn/taylortn/blob/main/images/Cloud%20Practioner.png" width="100"/>
+  <img src="images/Cloud Practioner.png" width="100"/>
 </p>
 
 <!-- CONTRIBUTIONS -->
