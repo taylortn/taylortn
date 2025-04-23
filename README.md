@@ -50,8 +50,7 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 
 ## 📄 Resume
 
-[![Download Resume][![📄 My Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/main/TaNara_Taylor_Resume.docx?raw=true)
-[![📄 Resume](https://img.shields.io/badge/📄%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/main/TaNara_Taylor_Resume.docx?raw=true)
+[![📄Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/main/TaNara_Taylor_Resume.docx?raw=true)
 <!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
 [![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-cb5087?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylortanara)
 [![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
