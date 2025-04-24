@@ -60,7 +60,7 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 <!-- CURRENT PROJECTS -->
 ## 🧠 Currently Working On
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=700&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center...;-+Creating+KMS+Keys%2C+Snapshots%2C+EBS+Encryption...;-+Installing+Ansible+Playbooks+on+Instances...;-+Creating+VPCs%2C+ALBs%2C+STIG+Checklists..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=700&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center...;-+Creating+KMS+Keys%2C+Snapshots%2C+EBS+Encryption...;-+Installing+Ansible+Playbooks+on+Instances...;-+Creating+VPCs%2C+ALBs%2C+STIG+Checklists...;Anisble+Automation+Platform+SIG+Documentation..."/>
 </p>
 
 <!-- TOOL SECTIONS (examples below) -->
