@@ -8,8 +8,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
 <!-- TITLE & BANNER -->
-<h1 align="center"> Welcome to my corner of GitHub!
-Hey there 👋🏾, I'm Ta'Nara Taylor</h1>
+<h1 align="center">Welcome to my corner of GitHub!</h1>
+<h3 align="center">👋🏾 Hey there, I'm <strong>Ta'Nara Taylor</strong></h3>
 
 <p align="center">
   <img src="https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed" alt="GitHub Banner"/>
@@ -51,9 +51,9 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 ## 📄 Resume
 
 [![📄Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/root/resume/TaNara.Taylor%20Resume.pdf?raw=true)
-<!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
 [![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-cb5087?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylortanara)
 [![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
+<!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
 
 <!-- CURRENT PROJECTS -->
 ## 🧠 Currently Working On
@@ -86,9 +86,9 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 
 ## ☁️ Hosting/SaaS
 <p align="center">
-  <img src="images/amazon-web-services-aws-seeklogo.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/amazon-web-services-aws-seeklogo.png" width="50"/>
   <img src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" width="50"/>
-  <img src="images/servicenow-seeklogo.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="50"/>
 </p>
 
 <!-- Additional sections omitted for brevity, but would follow same pattern -->
@@ -97,7 +97,8 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 ## 📜 Certifications
 <p align="center">
   <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" width="100"/>
-  <img src="images/Cloud Practioner.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/Cloud%20Practioner.png" width="100"/>
+  <img src="images/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate Badge"/>
 </p>
 
 <!-- CONTRIBUTIONS -->
