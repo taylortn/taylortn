@@ -60,7 +60,9 @@ I'm also passionate about mentoring, uplifting others in tech, and bridging gaps
 <!-- CURRENT PROJECTS -->
 ## 🧠 Currently Working On
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=700&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center...;-+Creating+KMS+Keys%2C+Snapshots%2C+EBS+Encryption...;-+Installing+Ansible+Playbooks+on+Instances...;-+Creating+VPCs%2C+ALBs%2C+STIG+Checklists...;Anisble+Automation+Platform+SIG+Documentation..."/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=750&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center+with+RHEL%2FWindows+Instances;+-+Automation+of+EBS+%26+AMI+Snapshots+with+Tags;+-+Creating+%26+Rotating+KMS+Keys+for+Encrypted+Instances;+-+Encrypting+EBS+Volumes+%26+Snapshots;+-+Updating+Nessus+Agents+and+Versions;+-+GUI+Health+Checks+%26+Web+Accessibility;+-+Setting+CloudWatch+Alarms+for+CPU+Utilization;+-+Installing+Ansible+Playbooks+on+AWS+Instances;+-+Deploying+Instances+to+Trellix+Endpoint+Security;+-+Managing+NACLs+%26+Security+Groups;+-+Creating+ALBs+%26+New+VPC+Deployments;+-+Writing+STIG+Checklists+%26+SIG+Docs+for+AAP" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- TOOL SECTIONS (examples below) -->
