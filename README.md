@@ -132,5 +132,5 @@ with:
 <!-- RECENT GITHUB ACTIVITY -->
 ## 🕒 Recent GitHub Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/taylortn/taylortn/pull/3) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
+1. 🎉 Merged PR [#4](https://github.com/taylortn/taylortn/pull/4) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
