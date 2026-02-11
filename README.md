@@ -21,26 +21,52 @@
 <table>
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
+
 <b>👤 About</b>
 <ul>
 <li><a href="#about-me">About Me</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#resume">Resume</a></li>
+<li><a href="#currently-working-on">Currently Working On</a></li>
 </ul>
+
 </td>
 
-<td valign="top" width="50%">
-<b>💻 Technical</b>
+<td valign="top" width="33%">
+
+<b>💻 Technical Stack</b>
 <ul>
-<li><a href="#tech-stack">Tech Stack</a></li>
+<li><a href="#cicd-tools">CI/CD Tools</a></li>
+<li><a href="#database--orm-tools">Database / ORM Tools</a></li>
+<li><a href="#design-tools">Design Tools</a></li>
+<li><a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a></li>
+<li><a href="#hostingsaas">Hosting/SaaS</a></li>
+<li><a href="#infrastructure-tools">Infrastructure Tools</a></li>
+<li><a href="#ide-tools">IDE Tools</a></li>
+<li><a href="#language-framework-tools">Language Framework Tools</a></li>
+<li><a href="#mldl-tools">ML/DL Tools</a></li>
+<li><a href="#server-tools">Server Tools</a></li>
+<li><a href="#other-tools">Other Tools</a></li>
 <li><a href="#certifications">Certifications</a></li>
-<li><a href="#projects">Projects</a></li>
 </ul>
+
+</td>
+
+<td valign="top" width="33%">
+
+<b>🚀 Activity</b>
+<ul>
+<li><a href="#my-contributions">Contributions</a></li>
+<li><a href="#now-playing">Now Playing</a></li>
+<li><a href="#recent-github-activities">Recent GitHub Activities</a></li>
+</ul>
+
 </td>
 
 </tr>
 </table>
+
 
 
 
