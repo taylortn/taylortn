@@ -67,27 +67,6 @@
 </tr>
 </table>
 
-
-
-
-
-- [Currently Working On](#-currently-working-on)
-- [CI/CD Tools](#-cicd-tools)
-- [Database / ORM Tools](#-database--orm-tools)
-- [Design Tools](#-design-tools)
-- [Frameworks, Platforms & Libraries](#-frameworks-platforms--libraries)
-- [Hosting/SaaS](#-hostingsaas)
-- [Infrastructure Tools](#-infrastructure-tools)
-- [IDE Tools](#-ide-tools)
-- [Language Framework Tools](#-language-framework-tools)
-- [ML/DL Tools](#-mldl-tools)
-- [Server Tools](#-server-tools)
-- [Other Tools](#-other-tools)
-- [Certifications](#-certifications)
-- [Contributions](#-my-contributions)
-- [Now Playing](#-now-playing)
-- [Recent GitHub Activities](#-recent-github-activities)
-
 <!-- ABOUT ME -->
 ## 👩🏾‍💻 About Me
 
