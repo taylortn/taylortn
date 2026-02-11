@@ -19,28 +19,29 @@
 ## 📚 Table of Contents
 
 <table>
-  <tr>
+<tr>
 
-    <td valign="top" width="50%">
-      <b>👤 About</b>
-      <ul>
-        <li><a href="#about-me">About Me</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li><a href="#resume">Resume</a></li>
-      </ul>
-    </td>
+<td valign="top" width="50%">
+<b>👤 About</b>
+<ul>
+<li><a href="#about-me">About Me</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#resume">Resume</a></li>
+</ul>
+</td>
 
-    <td valign="top" width="50%">
-      <b>💻 Technical</b>
-      <ul>
-        <li><a href="#tech-stack">Tech Stack</a></li>
-        <li><a href="#certifications">Certifications</a></li>
-        <li><a href="#projects">Projects</a></li>
-      </ul>
-    </td>
+<td valign="top" width="50%">
+<b>💻 Technical</b>
+<ul>
+<li><a href="#tech-stack">Tech Stack</a></li>
+<li><a href="#certifications">Certifications</a></li>
+<li><a href="#projects">Projects</a></li>
+</ul>
+</td>
 
-  </tr>
+</tr>
 </table>
+
 
 
 
