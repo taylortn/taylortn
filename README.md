@@ -68,9 +68,17 @@
 <!-- ABOUT ME -->
 ## 👩🏾‍💻 About Me
 
+<div align="center">
+
 [![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-cb5087?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylortanara)
 [![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
 <!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
+
+</div>
+
+<br>
+
+
 
 I am a **Tech Architecture Specialist** based in the DMV area with hands-on experience in secure cloud infrastructure, cybersecurity operations, and automation.
 
