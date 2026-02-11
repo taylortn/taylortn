@@ -18,10 +18,12 @@
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="left">
 
 <b>👤 About</b>
 <ul>
@@ -33,7 +35,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="left">
 
 <b>💻 Technical Stack</b>
 <ul>
@@ -53,7 +55,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="left">
 
 <b>🚀 Activity</b>
 <ul>
@@ -66,6 +68,9 @@
 
 </tr>
 </table>
+
+</div>
+
 
 <!-- ABOUT ME -->
 ## 👩🏾‍💻 About Me
