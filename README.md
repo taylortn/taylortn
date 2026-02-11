@@ -20,6 +20,7 @@
 
 <table>
   <tr>
+
     <td valign="top" width="50%">
       <b>👤 About</b>
       <ul>
@@ -37,8 +38,10 @@
         <li><a href="#projects">Projects</a></li>
       </ul>
     </td>
+
   </tr>
 </table>
+
 
 
 - [Currently Working On](#-currently-working-on)
