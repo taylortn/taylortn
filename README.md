@@ -17,8 +17,24 @@
 
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
-- [About Me](#-about-me)
-- [Resume](#-resume)
+<table>
+  <tr>
+    <td valign="top">
+### 👤 About
+- [About Me](#about-me)
+- [Contact](#contact)
+- [Resume](#resume)
+    </td>
+    <td valign="top">
+  ### 💻 Technical
+- [Tech Stack](#tech-stack)
+- [Certifications](#certifications)
+- [Projects](#projects)
+
+    </td>
+    <td valign="top">
+</table>
+
 - [Currently Working On](#-currently-working-on)
 - [CI/CD Tools](#-cicd-tools)
 - [Database / ORM Tools](#-database--orm-tools)
