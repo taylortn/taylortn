@@ -20,6 +20,42 @@
 ## 📚 Table of Contents
 
 <div align="center">
+
+### 👤 About
+<a href="#about-me">About Me</a> • 
+<a href="#contact">Contact</a> • 
+<a href="#resume">Resume</a> • 
+<a href="#currently-working-on">Currently Working On</a>
+
+<br><br>
+
+### 💻 Technical Stack
+<a href="#cicd-tools">CI/CD Tools</a> • 
+<a href="#database--orm-tools">Database / ORM Tools</a> • 
+<a href="#design-tools">Design Tools</a> • 
+<a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a> • 
+<a href="#hostingsaas">Hosting/SaaS</a> • 
+<a href="#infrastructure-tools">Infrastructure Tools</a> • 
+<a href="#ide-tools">IDE Tools</a> • 
+<a href="#language-framework-tools">Language Framework Tools</a> • 
+<a href="#mldl-tools">ML/DL Tools</a> • 
+<a href="#server-tools">Server Tools</a> • 
+<a href="#other-tools">Other Tools</a> • 
+<a href="#certifications">Certifications</a>
+
+<br><br>
+
+### 🚀 Activity
+<a href="#my-contributions">Contributions</a> • 
+<a href="#now-playing">Now Playing</a> • 
+<a href="#recent-github-activities">Recent GitHub Activities</a>
+
+</div>
+
+
+## 📚 Table of Contents
+
+<div align="center">
 <table width="100%">
 <tr>
 
