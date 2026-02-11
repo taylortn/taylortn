@@ -153,6 +153,8 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 </p>
 
 ## ☁️ Hosting/SaaS
+
+Cloud Engineer & Security-Focused Infrastructure Specialist building resilient AWS environments.  I specialize in vulnerability management, automation, and system hardening across enterprise platforms.  Focused on secure architecture, continuous improvement, and operational excellence.
 <p align="center">
   <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/amazon-web-services-aws-seeklogo.png" width="60"/>
   <img src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" width="60"/>
