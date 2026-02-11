@@ -19,20 +19,61 @@
 
 ## 📚 Table of Contents
 
-| 👤 About | 💻 Technical Stack | 🚀 Activity |
-|----------|--------------------|------------|
-| [About Me](#about-me) | [CI/CD Tools](#cicd-tools) | [Contributions](#my-contributions) |
-| [Contact](#contact) | [Database / ORM Tools](#database--orm-tools) | [Now Playing](#now-playing) |
-| [Resume](#resume) | [Design Tools](#design-tools) | [Recent GitHub Activities](#recent-github-activities) |
-| [Currently Working On](#currently-working-on) | [Frameworks, Platforms & Libraries](#frameworks-platforms--libraries) |  |
-|  | [Hosting/SaaS](#hostingsaas) |  |
-|  | [Infrastructure Tools](#infrastructure-tools) |  |
-|  | [IDE Tools](#ide-tools) |  |
-|  | [Language Framework Tools](#language-framework-tools) |  |
-|  | [ML/DL Tools](#mldl-tools) |  |
-|  | [Server Tools](#server-tools) |  |
-|  | [Other Tools](#other-tools) |  |
-|  | [Certifications](#certifications) |  |
+## 📚 Table of Contents
+
+<div align="center">
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+<h4 align="center">👤 About</h4>
+<ul>
+<li><a href="#about-me">About Me</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#resume">Resume</a></li>
+<li><a href="#currently-working-on">Currently Working On</a></li>
+</ul>
+
+</td>
+
+<td valign="top" width="33%">
+
+<h4 align="center">💻 Technical Stack</h4>
+<ul>
+<li><a href="#cicd-tools">CI/CD Tools</a></li>
+<li><a href="#database--orm-tools">Database / ORM Tools</a></li>
+<li><a href="#design-tools">Design Tools</a></li>
+<li><a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a></li>
+<li><a href="#hostingsaas">Hosting/SaaS</a></li>
+<li><a href="#infrastructure-tools">Infrastructure Tools</a></li>
+<li><a href="#ide-tools">IDE Tools</a></li>
+<li><a href="#language-framework-tools">Language Framework Tools</a></li>
+<li><a href="#mldl-tools">ML/DL Tools</a></li>
+<li><a href="#server-tools">Server Tools</a></li>
+<li><a href="#other-tools">Other Tools</a></li>
+<li><a href="#certifications">Certifications</a></li>
+</ul>
+
+</td>
+
+<td valign="top" width="33%">
+
+<h4 align="center">🚀 Activity</h4>
+<ul>
+<li><a href="#my-contributions">Contributions</a></li>
+<li><a href="#now-playing">Now Playing</a></li>
+<li><a href="#recent-github-activities">Recent GitHub Activities</a></li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 
 ## 📚 Table of Contents
