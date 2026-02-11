@@ -36,7 +36,7 @@
 <td valign="top" width="33%">
   <div align="center">
     <b>💻 Technical Stack</b><br><br>
-    <a id="cicd-tools">CI/CD Tools</a><br>
+    <a name="#cicd-tools">CI/CD Tools</a><br>
     <a href="#database-orm-tools">Database | ORM Tools</a><br>
     <a href="#design-tools">Design Tools</a><br>
     <a href="#frameworks-platforms-libraries">Frameworks, Platforms & Libraries</a><br>
