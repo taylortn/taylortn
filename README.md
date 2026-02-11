@@ -37,14 +37,14 @@
   <div align="center">
     <b>💻 Technical Stack</b><br><br>
     <a href="#cicd-tools">CI/CD Tools</a><br>
-    <a href="#database--orm-tools">Database / ORM Tools</a><br>
+    <a href="#database--orm-tools">Database | ORM Tools</a><br>
     <a href="#design-tools">Design Tools</a><br>
     <a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a><br>
     <a href="#hostingsaas">Hosting/SaaS</a><br>
     <a href="#infrastructure-tools">Infrastructure Tools</a><br>
     <a href="#ide-tools">IDE Tools</a><br>
     <a href="#language-framework-tools">Language Framework Tools</a><br>
-    <a href="#mldl-tools">ML/DL Tools</a><br>
+    <a href="#mldl-tools">ML|DL Tools</a><br>
     <a href="#server-tools">Server Tools</a><br>
     <a href="#other-tools">Other Tools</a><br>
     <a href="#certifications">Certifications</a>
@@ -53,7 +53,7 @@
 
 <td valign="top" width="33%">
   <div align="center">
-    <b>🚀 Activity</b><br><br>
+    <b>Activity</b><br><br>
     <a href="#my-contributions">Contributions</a><br>
     <a href="#now-playing">Now Playing</a><br>
     <a href="#recent-github-activities">Recent GitHub Activities</a>
