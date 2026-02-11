@@ -53,7 +53,7 @@
 
 <td valign="top" width="33%">
   <div align="center">
-    <b>Activity</b><br><br>
+    <b> 🚀 Activity</b><br><br>
     <a href="#my-contributions">Contributions</a><br>
     <a href="#now-playing">Now Playing</a><br>
     <a href="#recent-github-activities">Recent GitHub Activities</a>
