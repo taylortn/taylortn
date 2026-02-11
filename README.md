@@ -72,15 +72,21 @@
 [![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
 <!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
 
-I'm a **Custom Software Engineer** in the DMV Area and an aspiring **IT Support Specialist** passionate about technology and security. I thrive in challenging environments and aim to simplify complex IT concepts into practical solutions.
+I am a **Tech Architecture Specialist** based in the DMV area with hands-on experience in secure cloud infrastructure, cybersecurity operations, and automation.
 
-Currently, I specialize in:
-- 🔐 Cybersecurity tools like **Tenable Nessus Manager**, **Tenable Security Center**, and **Trellix EndPoint Security**
-- ☁️ Cloud Infrastructure (AWS, EC2, S3, VPC, ALBs, IAM)
-- 🛠️ Automation with Ansible and Infrastructure as Code
-- 🌱 Always learning: [New tech you're learning]
+I specialize in designing, maintaining, and securing enterprise environments across cloud and on-prem systems, with a strong focus on operational resilience and continuous monitoring.
 
-I'm also passionate about mentoring, uplifting others in tech, and bridging gaps between tech and community.
+### Core Expertise
+- 🔐 Cybersecurity Operations: Tenable Nessus Manager, Tenable Security Center, vulnerability remediation, plugin lifecycle management
+- ☁️ Cloud Infrastructure: AWS (EC2, S3, VPC, IAM, ALBs), secure network architecture, access governance
+- 🛠️ Automation & DevOps: Ansible, Infrastructure as Code, environment patching, deployment pipelines
+- 🖥️ Systems Administration: Linux environments, system hardening, troubleshooting, patch management
+- 📊 Continuous Monitoring & Security Compliance in controlled environments
+
+I hold multiple industry certifications, including **AWS Certified Solutions Architect – Associate**, **AWS AI Practitioner**, and **ServiceNOW CSA**, and I am currently preparing for **RHCSA (EX200)** and **ServiceNOW CAD**.
+
+I am passionate about building secure, scalable systems, mentoring others in technology, and translating complex technical concepts into practical, business-driven solutions.
+
 
 ## 📄 Resume
 
