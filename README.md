@@ -16,6 +16,25 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
+
+## 📚 Table of Contents
+
+| 👤 About | 💻 Technical Stack | 🚀 Activity |
+|----------|--------------------|------------|
+| [About Me](#about-me) | [CI/CD Tools](#cicd-tools) | [Contributions](#my-contributions) |
+| [Contact](#contact) | [Database / ORM Tools](#database--orm-tools) | [Now Playing](#now-playing) |
+| [Resume](#resume) | [Design Tools](#design-tools) | [Recent GitHub Activities](#recent-github-activities) |
+| [Currently Working On](#currently-working-on) | [Frameworks, Platforms & Libraries](#frameworks-platforms--libraries) |  |
+|  | [Hosting/SaaS](#hostingsaas) |  |
+|  | [Infrastructure Tools](#infrastructure-tools) |  |
+|  | [IDE Tools](#ide-tools) |  |
+|  | [Language Framework Tools](#language-framework-tools) |  |
+|  | [ML/DL Tools](#mldl-tools) |  |
+|  | [Server Tools](#server-tools) |  |
+|  | [Other Tools](#other-tools) |  |
+|  | [Certifications](#certifications) |  |
+
+
 ## 📚 Table of Contents
 
 <div align="center">
