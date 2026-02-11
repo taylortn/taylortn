@@ -96,7 +96,8 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 
 <div align="center">
 
-  [![📄 Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/root/resume/Taylor%20Resume%20ISSO.pdf?raw=true)
+  [![📄 Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/root/resume/Taylor%20Resume%20ISSO.pdf
+))
 
 </div>
 <br>
