@@ -159,7 +159,7 @@ I am passionate about building secure, scalable systems, mentoring others in tec
   <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="60"/>
 </p>
 
-<!-- Additional sections omitted for brevity, but would follow same pattern -->
+<!-- Additional sections omitted for brevity, but would follow the same pattern -->
 
 <!-- CERTIFICATIONS -->
 ## 📜 Certifications
@@ -167,6 +167,7 @@ I am passionate about building secure, scalable systems, mentoring others in tec
   <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" width="100"/>
   <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/Cloud%20Practioner.png" width="100"/>
   <img src="images/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate Badge"/>
+  <img src="images/images/Ai_practitioner.png" width="100" alt="AWS AI Practitioner"/>
 </p>
 
 <!-- CONTRIBUTIONS -->
