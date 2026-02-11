@@ -96,28 +96,43 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 
 <div align="center">
 
-  [![📄 Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/root/resume/Taylor%20Resume%20ISSO.pdf
-))
+  [![📄 Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/root/resume/Taylor%20Resume%20ISSO.pdf)
 
 </div>
 <br>
+
 <!-- CURRENT PROJECTS -->
+
 ## 🧠 Currently Working On
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=50&multiline=true&random=false&width=750&height=350&lines=-+Comparing+Scans+from+Tenable+Security+Center+with+RHEL%2FWindows+Instances;+-+Automation+of+EBS+%26+AMI+Snapshots+with+Tags;+-+Creating+%26+Rotating+KMS+Keys+for+Encrypted+Instances;+-+Encrypting+EBS+Volumes+%26+Snapshots;+-+Updating+Nessus+Agents+and+Versions;+-+GUI+Health+Checks+%26+Web+Accessibility;+-+Setting+CloudWatch+Alarms+for+CPU+Utilization;+-+Installing+Ansible+Playbooks+on+AWS+Instances;+-+Deploying+Instances+to+Trellix+Endpoint+Security;+-+Managing+NACLs+%26+Security+Groups;+-+Creating+ALBs+%26+New+VPC+Deployments;+-+Writing+STIG+Checklists+%26+SIG+Docs+for+AAP" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&multiline=true&width=850&height=160&lines=Vulnerability+Management+%7C+Tenable+SC+%26+Nessus;Security+Patching+%26+Hardening+%7C+RHEL+%26+Windows;AWS+Security+Improvements+%7C+IAM%2C+KMS%2C+CloudWatch;Automation+%7C+Ansible+%26+Bash+for+repeatable+OPS;Endpoint+Security+Support+%7C+Trellix+tooling" alt="Currently Working On" />
 </p>
 
 <!-- TOOL SECTIONS (examples below) -->
 ## 🔁 CI/CD Tools
 <p align="center">
-  <img src="https://img.icons8.com/clouds/100/github.png" width="50"/>
-  <img src="https://img.icons8.com/color/100/gitlab.png" width="50"/>
+  <img src="https://img.icons8.com/clouds/100/github.png" width="60"/>
+  <img src="https://img.icons8.com/color/100/gitlab.png" width="60"/>
+  <img src="https://img.icons8.com/color/100/ansible.png" width="60"/>
+  <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="60"/>
+  <img src="https://img.icons8.com/color/100/docker.png" width="60"/>
+  <img src="https://img.icons8.com/color/100/terraform.png" width="60"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="60"/>
+
 </p>
 
 ## 🗃️ Database / ORM Tools
 <p align="center">Coming Soon!</p>
+
+## 🔐 Vulnerability Management Platforms
+
+<p align="center">
+  <img src="https://img.icons8.com/color/100/security-checked.png" width="70" alt="ACAS"/>
+  <img src="https://img.icons8.com/color/100/security-configuration.png" width="70" alt="Tenable Security Center"/>
+  <img src="https://img.icons8.com/color/100/shield.png" width="70" alt="Tenable Nessus Manager"/>
+  <img src="https://img.icons8.com/color/100/network.png" width="70" alt="Nessus Agents"/>
+  <img src="https://img.icons8.com/color/100/antivirus-software.png" width="70" alt="Trellix Endpoint Security"/>
+</p>
 
 ## 🎨 Design Tools
 <p align="center">
