@@ -117,8 +117,6 @@ I am passionate about building secure, scalable systems, mentoring others in tec
   <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="60"/>
   <img src="https://img.icons8.com/color/100/docker.png" width="60"/>
   <img src="https://img.icons8.com/color/100/terraform.png" width="60"/>
-  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="60"/>
-
 </p>
 
 ## 🗃️ Database / ORM Tools
@@ -127,18 +125,25 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 ## 🔐 Vulnerability Management Platforms
 
 <p align="center">
-  <img src="https://img.icons8.com/color/100/security-checked.png" width="70" alt="ACAS"/>
-  <img src="https://img.icons8.com/color/100/security-configuration.png" width="70" alt="Tenable Security Center"/>
-  <img src="https://img.icons8.com/color/100/shield.png" width="70" alt="Tenable Nessus Manager"/>
-  <img src="https://img.icons8.com/color/100/network.png" width="70" alt="Nessus Agents"/>
-  <img src="https://img.icons8.com/color/100/antivirus-software.png" width="70" alt="Trellix Endpoint Security"/>
+  <img src="https://img.icons8.com/color/100/security-checked.png" width="60" alt="ACAS"/>
+  <img src="https://img.icons8.com/color/100/security-configuration.png" width="60" alt="Tenable Security Center"/>
+  <img src="https://img.icons8.com/color/100/shield.png" width="60" alt="Tenable Nessus Manager"/>
+  <img src="https://img.icons8.com/color/100/network.png" width="60" alt="Nessus Agents"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/root/images/Trellix_LOGO_Color_Graphite.png" width="100" alt="Trellix Endpoint Security" width="60" alt="Trellix"/>
+
 </p>
 
 ## 🎨 Design Tools
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" width="50" alt="Illustrator"/>
-  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="50" alt="Photoshop"/>
-  <img src="https://img.icons8.com/?size=100&id=omuSvqfyybfC&format=png&color=000000" width="50" alt="Creative Cloud"/>
+   <img src="images/canva-transparent-icon-free-png.png" width="60" alt="Canva" />
+  <img src="images/Inkscape_logo.png" width="60" alt="Inkscape" />
+  <img src="images/The_GIMP_icon_-_gnome.svg" width="60" alt="GIMP" />
+  <img src="images/com.bambulab.BambuStudio.png" width="60" alt="Bambu Studio" />
+  <img src="images/unnamed.png" width="60" alt="WeCreat" />
+  <img src="images/8d26e0ca97fa6c4be46b882ae36ac30e.w1673.h1673._RO835,1,0,0,0,0,0,0,0,0,15_FMpng_.png" width="60" alt="Cricut" />
+  <img src="images/Adobe_Creative_Cloud_rainbow_icon.svg" width="60" alt="Adobe Creative Cloud" />
+
+  
 </p>
 
 ## 🧩 Frameworks, Platforms & Libraries
