@@ -120,7 +120,7 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 </p>
 
 ## 🗃️ Database / ORM Tools
-<p align="center">Coming Soon!</p>
+<p align="center">Currently focused on cloud + security automation; database projects incoming Q2.</p>
 
 ## 🔐 Vulnerability Management Platforms
 
