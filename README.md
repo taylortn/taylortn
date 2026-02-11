@@ -148,15 +148,15 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 
 ## 🧩 Frameworks, Platforms & Libraries
 <p align="center">
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" width="50"/>
-  <img src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" width="50"/>
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a56946b0f7cacc09a4f3e6844fd08b04/tenable-security-center.png" width="60"/>
+  <img src="https://www.access42.nl/wp-content/uploads/2020/01/nessus-logo.png" width="60"/>
 </p>
 
 ## ☁️ Hosting/SaaS
 <p align="center">
-  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/amazon-web-services-aws-seeklogo.png" width="50"/>
-  <img src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/amazon-web-services-aws-seeklogo.png" width="60"/>
+  <img src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" width="60"/>
+  <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="60"/>
 </p>
 
 <!-- Additional sections omitted for brevity, but would follow same pattern -->
@@ -188,10 +188,11 @@ with:
 
 <!-- STATS -->
 ## 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taylortn&layout=compact" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=taylortn&show_icons=true" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=taylortn&theme=tokyonight" />
 </p>
+
 
 <!-- RECENT GITHUB ACTIVITY -->
 ## 🕒 Recent GitHub Activities
