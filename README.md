@@ -17,23 +17,29 @@
 
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
+
 <table>
   <tr>
-    <td valign="top">
-### 👤 About
-- [About Me](#about-me)
-- [Contact](#contact)
-- [Resume](#resume)
+    <td valign="top" width="50%">
+      <b>👤 About</b>
+      <ul>
+        <li><a href="#about-me">About Me</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#resume">Resume</a></li>
+      </ul>
     </td>
-    <td valign="top">
-  ### 💻 Technical
-- [Tech Stack](#tech-stack)
-- [Certifications](#certifications)
-- [Projects](#projects)
 
+    <td valign="top" width="50%">
+      <b>💻 Technical</b>
+      <ul>
+        <li><a href="#tech-stack">Tech Stack</a></li>
+        <li><a href="#certifications">Certifications</a></li>
+        <li><a href="#projects">Projects</a></li>
+      </ul>
     </td>
-    <td valign="top">
+  </tr>
 </table>
+
 
 - [Currently Working On](#-currently-working-on)
 - [CI/CD Tools](#-cicd-tools)
