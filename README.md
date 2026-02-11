@@ -19,116 +19,49 @@
 
 ## 📚 Table of Contents
 
-## 📚 Table of Contents
-
 <div align="center">
-
-<table>
-<tr>
-
-<td valign="top" width="33%">
-
-<h4 align="center">👤 About</h4>
-<ul>
-<li><a href="#about-me">About Me</a></li>
-<li><a href="#contact">Contact</a></li>
-<li><a href="#resume">Resume</a></li>
-<li><a href="#currently-working-on">Currently Working On</a></li>
-</ul>
-
-</td>
-
-<td valign="top" width="33%">
-
-<h4 align="center">💻 Technical Stack</h4>
-<ul>
-<li><a href="#cicd-tools">CI/CD Tools</a></li>
-<li><a href="#database--orm-tools">Database / ORM Tools</a></li>
-<li><a href="#design-tools">Design Tools</a></li>
-<li><a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a></li>
-<li><a href="#hostingsaas">Hosting/SaaS</a></li>
-<li><a href="#infrastructure-tools">Infrastructure Tools</a></li>
-<li><a href="#ide-tools">IDE Tools</a></li>
-<li><a href="#language-framework-tools">Language Framework Tools</a></li>
-<li><a href="#mldl-tools">ML/DL Tools</a></li>
-<li><a href="#server-tools">Server Tools</a></li>
-<li><a href="#other-tools">Other Tools</a></li>
-<li><a href="#certifications">Certifications</a></li>
-</ul>
-
-</td>
-
-<td valign="top" width="33%">
-
-<h4 align="center">🚀 Activity</h4>
-<ul>
-<li><a href="#my-contributions">Contributions</a></li>
-<li><a href="#now-playing">Now Playing</a></li>
-<li><a href="#recent-github-activities">Recent GitHub Activities</a></li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-
-
-## 📚 Table of Contents
-
-<div align="center">
-
 <table width="100%">
 <tr>
 
-<td valign="top" width="33%" align="left">
-
-<b>👤 About</b>
-<ul>
-<li><a href="#about-me">About Me</a></li>
-<li><a href="#contact">Contact</a></li>
-<li><a href="#resume">Resume</a></li>
-<li><a href="#currently-working-on">Currently Working On</a></li>
-</ul>
-
+<td valign="top" width="33%">
+  <div align="center">
+    <b>👤 About</b><br><br>
+    <a href="#about-me">About Me</a><br>
+    <a href="#contact">Contact</a><br>
+    <a href="#resume">Resume</a><br>
+    <a href="#currently-working-on">Currently Working On</a>
+  </div>
 </td>
 
-<td valign="top" width="33%" align="left">
-
-<b>💻 Technical Stack</b>
-<ul>
-<li><a href="#cicd-tools">CI/CD Tools</a></li>
-<li><a href="#database--orm-tools">Database / ORM Tools</a></li>
-<li><a href="#design-tools">Design Tools</a></li>
-<li><a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a></li>
-<li><a href="#hostingsaas">Hosting/SaaS</a></li>
-<li><a href="#infrastructure-tools">Infrastructure Tools</a></li>
-<li><a href="#ide-tools">IDE Tools</a></li>
-<li><a href="#language-framework-tools">Language Framework Tools</a></li>
-<li><a href="#mldl-tools">ML/DL Tools</a></li>
-<li><a href="#server-tools">Server Tools</a></li>
-<li><a href="#other-tools">Other Tools</a></li>
-<li><a href="#certifications">Certifications</a></li>
-</ul>
-
+<td valign="top" width="33%">
+  <div align="center">
+    <b>💻 Technical Stack</b><br><br>
+    <a href="#cicd-tools">CI/CD Tools</a><br>
+    <a href="#database--orm-tools">Database / ORM Tools</a><br>
+    <a href="#design-tools">Design Tools</a><br>
+    <a href="#frameworks-platforms--libraries">Frameworks, Platforms & Libraries</a><br>
+    <a href="#hostingsaas">Hosting/SaaS</a><br>
+    <a href="#infrastructure-tools">Infrastructure Tools</a><br>
+    <a href="#ide-tools">IDE Tools</a><br>
+    <a href="#language-framework-tools">Language Framework Tools</a><br>
+    <a href="#mldl-tools">ML/DL Tools</a><br>
+    <a href="#server-tools">Server Tools</a><br>
+    <a href="#other-tools">Other Tools</a><br>
+    <a href="#certifications">Certifications</a>
+  </div>
 </td>
 
-<td valign="top" width="33%" align="left">
-
-<b>🚀 Activity</b>
-<ul>
-<li><a href="#my-contributions">Contributions</a></li>
-<li><a href="#now-playing">Now Playing</a></li>
-<li><a href="#recent-github-activities">Recent GitHub Activities</a></li>
-</ul>
-
+<td valign="top" width="33%">
+  <div align="center">
+    <b>🚀 Activity</b><br><br>
+    <a href="#my-contributions">Contributions</a><br>
+    <a href="#now-playing">Now Playing</a><br>
+    <a href="#recent-github-activities">Recent GitHub Activities</a>
+  </div>
 </td>
 
 </tr>
 </table>
-
 </div>
 
 
