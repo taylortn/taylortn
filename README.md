@@ -72,13 +72,10 @@
 
 [![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-cb5087?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylortanara)
 [![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
-<!--[![🌐 Website](https://img.shields.io/badge/🌐%20Website-cb5087?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsiteurl.com)-->
 
 </div>
 
 <br>
-
-
 
 I am a **Tech Architecture Specialist** based in the DMV area with hands-on experience in secure cloud infrastructure, cybersecurity operations, and automation.
 
@@ -95,11 +92,13 @@ I hold multiple industry certifications, including **AWS Certified Solutions Arc
 
 I am passionate about building secure, scalable systems, mentoring others in technology, and translating complex technical concepts into practical, business-driven solutions.
 
-
 ## 📄 Resume
 
+<div align="center">
+  
 [![📄Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/root/resume/TaNara.Taylor%20Resume.pdf?raw=true)
-
+</div>
+<br>
 <!-- CURRENT PROJECTS -->
 ## 🧠 Currently Working On
 <p align="center">
