@@ -68,15 +68,6 @@
 <!-- ABOUT ME -->
 ## 👩🏾‍💻 About Me
 
-## 🛠 Technical Stack
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
-
 [![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-cb5087?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylortanara)
 [![📧 Email](https://img.shields.io/badge/📧%20Email-cb5087?style=flat&logo=gmail&logoColor=white)](mailto:tanara.taylor@yahoo.com)
 
@@ -95,9 +86,18 @@ I specialize in designing, maintaining, and securing enterprise environments acr
 - 🖥️ Systems Administration: Linux environments, system hardening, troubleshooting, patch management
 - 📊 Continuous Monitoring & Security Compliance in controlled environments
 
-I hold multiple industry certifications, including **AWS Certified Solutions Architect – Associate**, **AWS AI Practitioner**, and **ServiceNOW CSA**, and I am currently preparing for **RHCSA (EX200)** and **ServiceNOW CAD**.
+I hold multiple industry certifications, including **AWS Certified Solutions Architect – Associate**, **AWS AI Practitioner**, and **ServiceNow CSA**, and I am currently preparing for **RHCSA (EX200)** and **ServiceNow CAD**.
 
 I am passionate about building secure, scalable systems, mentoring others in technology, and translating complex technical concepts into practical, business-driven solutions.
+
+## 🛠 Technical Stack
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 
 ## 📄 Resume
 
