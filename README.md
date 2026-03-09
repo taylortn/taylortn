@@ -26,7 +26,7 @@
 <td valign="top" width="33%">
   <div align="center">
     <b>👤 About</b><br><br>
-    <a href="#about-me">About Me</a><br>
+    <h2 id="about-me">About Me</a><br>
     <a href="#contact">Contact</a><br>
     <a href="#resume">Resume</a><br>
     <a href="#currently-working-on">Currently Working On</a>
