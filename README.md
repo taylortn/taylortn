@@ -209,3 +209,17 @@ with:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#13](https://github.com/taylortn/taylortn/pull/13) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
+
+## 🚀 Featured Projects
+
+🔹 Cloud Linux Automation Lab  
+Terraform + Ansible automated infrastructure  
+https://github.com/taylortn/cloud-linux-automation-lab
+
+🔹 DevSecOps Vulnerability Lab  
+Automated Linux patch remediation pipeline  
+https://github.com/taylortn/devsecops-vulnerability-lab
+
+🔹 DevOps CI/CD Pipeline Lab  
+GitHub Actions + Docker deployment workflow  
+https://github.com/taylortn/devops-cicd-pipeline-lab
