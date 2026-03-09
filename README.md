@@ -99,6 +99,29 @@ I am passionate about building secure, scalable systems, mentoring others in tec
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 
+## 🚀 Featured Projects
+
+🔹 Cloud Linux Automation Lab  
+Terraform + Ansible automated infrastructure  
+https://github.com/taylortn/cloud-linux-automation-lab
+
+🔹 DevSecOps Vulnerability Lab  
+Automated Linux patch remediation pipeline  
+https://github.com/taylortn/devsecops-vulnerability-lab
+
+🔹 DevOps CI/CD Pipeline Lab  
+GitHub Actions + Docker deployment workflow  
+https://github.com/taylortn/devops-cicd-pipeline-lab
+
+## ⚙️ Engineering Focus
+
+• Cloud Infrastructure Automation  
+• DevOps CI/CD Pipeline Design  
+• Linux Security & Vulnerability Remediation  
+• Infrastructure as Code (Terraform)  
+• Configuration Management (Ansible)  
+• Secure Cloud Operations
+
 ## 📄 Resume
 
 <div align="center">
@@ -209,17 +232,3 @@ with:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#13](https://github.com/taylortn/taylortn/pull/13) in [taylortn/taylortn](https://github.com/taylortn/taylortn)
 <!--END_SECTION:activity-->
-
-## 🚀 Featured Projects
-
-🔹 Cloud Linux Automation Lab  
-Terraform + Ansible automated infrastructure  
-https://github.com/taylortn/cloud-linux-automation-lab
-
-🔹 DevSecOps Vulnerability Lab  
-Automated Linux patch remediation pipeline  
-https://github.com/taylortn/devsecops-vulnerability-lab
-
-🔹 DevOps CI/CD Pipeline Lab  
-GitHub Actions + Docker deployment workflow  
-https://github.com/taylortn/devops-cicd-pipeline-lab
