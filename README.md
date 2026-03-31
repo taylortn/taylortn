@@ -204,8 +204,9 @@ Cloud Engineer & Security-Focused Infrastructure Specialist building resilient A
   <img src="images/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate Badge"/>
   <img src="images/Ai_practitioner.png" width="100" alt="AWS AI Practitioner"/>
 </p>
-<!--
+
 <!-- CONTRIBUTIONS -->
+<!--
 ## 📈 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/taylortn/taylortn/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
