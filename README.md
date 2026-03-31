@@ -140,9 +140,11 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 <!-- CURRENT PROJECTS -->
 
 ## 🧠 Currently Working On
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&duration=4999&pause=1000&multiline=true&width=435&lines=-+Strengthening+vulnerability+management+using+Tenable+Security+Center+%26+Nessus;-+Improving+system+patching+and+hardening+across+Linux+(RHEL)+and+Windows+environments" alt="Typing SVG" /></a>
-</p>
+
+- Strengthening vulnerability management using Tenable Security Center & Nessus
+- Improving system patching and hardening across Linux (RHEL) and Windows environments
+- Preparing for RHCSA (EX200)
+  
 <!-- TOOL SECTIONS (examples below) -->
 ## 🔁 CI/CD Tools
 <p align="center">
