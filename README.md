@@ -104,9 +104,10 @@ I hold certifications, including AWS Solutions Architect – Associate, AWS AI P
 
 ## 🚀 Featured Projects
 
-🔹 Cloud Linux Automation Lab  
-Terraform + Ansible automated infrastructure  
-https://github.com/taylortn/cloud-linux-automation-lab
+🔹 **Cloud Linux Automation Lab**  
+Built an automated AWS-based Linux environment using Terraform and Ansible to provision infrastructure and configure systems. Focused on infrastructure as code, system configuration, and repeatable deployment workflows.
+
+🔗 https://github.com/taylortn/cloud-linux-automation-lab
 
 🔹 DevSecOps Vulnerability Lab  
 Automated Linux patch remediation pipeline  
