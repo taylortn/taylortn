@@ -141,9 +141,8 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 ## 🧠 Currently Working On
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&multiline=true&width=850&height=160&lines=Vulnerability+Management+%7C+Tenable+SC+%26+Nessus;Security+Patching+%26+Hardening+%7C+RHEL+%26+Windows;AWS+Security+Improvements+%7C+IAM%2C+KMS%2C+CloudWatch;Automation+%7C+Ansible+%26+Bash+for+repeatable+OPS;Endpoint+Security+Support+%7C+Trellix+tooling" alt="Currently Working On" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&duration=4999&pause=1000&multiline=true&width=435&lines=-+Strengthening+vulnerability+management+using+Tenable+Security+Center+%26+Nessus;-+Improving+system+patching+and+hardening+across+Linux+(RHEL)+and+Windows+environments;-+Preparing+for+RHCSA+(EX200)" alt="Typing SVG" /></a>
 </p>
-
 <!-- TOOL SECTIONS (examples below) -->
 ## 🔁 CI/CD Tools
 <p align="center">
