@@ -12,7 +12,7 @@
 <h3 align="center">👋🏾 Hey there, I'm <strong>Ta'Nara Taylor</strong></h3>
 
 <p align="center">
- https://github.com/taylortn/taylortn/blob/6f1896c647cee49dc6e02621153e80c58c2ad24f/images/GitHub.png 
+ <img src="https://github.com/taylortn/taylortn/blob/6f1896c647cee49dc6e02621153e80c58c2ad24f/images/GitHub.png">
 </p>
 <!-- TABLE OF CONTENTS -->
 
