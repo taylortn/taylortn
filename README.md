@@ -82,17 +82,16 @@ I’m a System Administrator with a strong background in cloud operations and se
 I’ve worked on system monitoring, vulnerability remediation, patching, and handling day-to-day operational support in secure environments. I’m big on keeping systems stable, locked down, and efficient without overcomplicating things.
 
 Right now, I’m focused on leveling up my Linux skills as I prepare for my RHCSA, while continuing to build real-world experience in cloud and system administration.
-
+<!--
 ### Core Expertise
 - 🔐 Cybersecurity Operations: Tenable Nessus Manager, Tenable Security Center, vulnerability remediation, plugin lifecycle management
 - ☁️ Cloud Infrastructure: AWS (EC2, S3, VPC, IAM, ALBs), secure network architecture, access governance
 - 🛠️ Automation & DevOps: Ansible, Infrastructure as Code, environment patching, deployment pipelines
 - 🖥️ Systems Administration: Linux environments, system hardening, troubleshooting, patch management
 - 📊 Continuous Monitoring & Security Compliance in controlled environments
+-->
+I hold certifications, including AWS Solutions Architect – Associate, AWS AI Practitioner, and ServiceNow CSA, and I’m currently preparing for RHCSA (EX200) and ServiceNow CAD.
 
-I hold multiple industry certifications, including **AWS Certified Solutions Architect – Associate**, **AWS AI Practitioner**, and **ServiceNow CSA**, and I am currently preparing for **RHCSA (EX200)** and **ServiceNow CAD**.
-
-I am passionate about building secure, scalable systems, mentoring others in technology, and translating complex technical concepts into practical, business-driven solutions.
 
 ## 🛠 Technical Stack
 
