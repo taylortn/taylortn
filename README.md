@@ -75,9 +75,13 @@
 
 <br>
 
-I am a **Tech Architecture Specialist** based in the DMV area with hands-on experience in secure cloud infrastructure, cybersecurity operations, and automation.
+**System Administrator | Cloud Operations | Security-Focused Infrastructure**
 
-I specialize in designing, maintaining, and securing enterprise environments across cloud and on-prem systems, with a strong focus on operational resilience and continuous monitoring.
+I’m a System Administrator with a strong background in cloud operations and security-focused infrastructure. I work hands-on with Linux systems and AWS environments, making sure everything stays up, secure, and running the way it’s supposed to.
+
+I’ve worked on system monitoring, vulnerability remediation, patching, and handling day-to-day operational support in secure environments. I’m big on keeping systems stable, locked down, and efficient without overcomplicating things.
+
+Right now, I’m focused on leveling up my Linux skills as I prepare for my RHCSA, while continuing to build real-world experience in cloud and system administration.
 
 ### Core Expertise
 - 🔐 Cybersecurity Operations: Tenable Nessus Manager, Tenable Security Center, vulnerability remediation, plugin lifecycle management
