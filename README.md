@@ -95,11 +95,11 @@ I hold certifications, including AWS Solutions Architect – Associate, AWS AI P
 
 ## 🛠 Technical Stack
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+<!--![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)-->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+<!--![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)-->
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 
 ## 🚀 Featured Projects
