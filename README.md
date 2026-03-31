@@ -135,6 +135,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 </div>
 <br>
 <!-- CURRENT PROJECTS -->
+
 ## 🧠 Currently Working On
 
 - Strengthening vulnerability management using Tenable Security Center & Nessus
