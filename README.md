@@ -8,7 +8,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taylortn.taylortn" />
 
 <!-- TITLE & BANNER -->
-<h1 align="center">Welcome to my corner of GitHub!</h1>
+
 <h3 align="center">👋🏾 Hey there, I'm <strong>Ta'Nara Taylor</strong></h3>
 
 <p align="center">
