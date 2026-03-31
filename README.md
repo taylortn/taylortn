@@ -176,7 +176,6 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
   <img src="images/unnamed.png" width="60" alt="WeCreat" />
   <img src="images/8d26e0ca97fa6c4be46b882ae36ac30e.w1673.h1673._RO835,1,0,0,0,0,0,0,0,0,15_FMpng_.png" width="60" alt="Cricut" />
   <img src="images/Adobe_Creative_Cloud_rainbow_icon.svg" width="60" alt="Adobe Creative Cloud" />
-
   
 </p>
 
@@ -205,7 +204,7 @@ Cloud Engineer & Security-Focused Infrastructure Specialist building resilient A
   <img src="images/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate Badge"/>
   <img src="images/Ai_practitioner.png" width="100" alt="AWS AI Practitioner"/>
 </p>
-
+<!--
 <!-- CONTRIBUTIONS -->
 ## 📈 My Contributions
 <p align="center">
@@ -230,7 +229,7 @@ with:
   <img src="https://streak-stats.demolab.com/?user=taylortn&theme=tokyonight" />
 </p>
 
-
+-->
 <!-- RECENT GITHUB ACTIVITY -->
 ## 🕒 Recent GitHub Activities
 <!--START_SECTION:activity-->
