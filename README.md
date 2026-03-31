@@ -222,8 +222,9 @@ with:
   base: ""
   plugin_isocalendar: yes
   plugin_isocalendar_duration: full-year
-
+-->
 <!-- STATS -->
+<!--
 ## 🔥 GitHub Stats
 
 <p align="center">
