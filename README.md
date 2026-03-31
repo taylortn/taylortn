@@ -93,14 +93,12 @@ Right now, I’m focused on leveling up my Linux skills as I prepare for my RHCS
 I hold certifications, including AWS Solutions Architect – Associate, AWS AI Practitioner, and ServiceNow CSA, and I’m currently preparing for RHCSA (EX200) and ServiceNow CAD.
 
 
-## 🛠 Technical Stack
+## 🛠️ Technical Stack
 
-<!--![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)-->
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-<!--![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)-->
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+- Linux (RHEL)
+- AWS (EC2, S3, IAM, VPC)
+- Security Tools (Tenable Security Center, Nessus)
+- Automation (Ansible)
 
 ## 🚀 Featured Projects
 
@@ -136,9 +134,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 </div>
 <br>
-
 <!-- CURRENT PROJECTS -->
-
 ## 🧠 Currently Working On
 
 - Strengthening vulnerability management using Tenable Security Center & Nessus
