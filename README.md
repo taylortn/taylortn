@@ -116,7 +116,7 @@ https://github.com/taylortn/devsecops-vulnerability-lab
 GitHub Actions + Docker deployment workflow  
 https://github.com/taylortn/devops-cicd-pipeline-lab
 
-## ⚙️ Engineering Focus
+<!--## ⚙️ Engineering Focus
 
 • Cloud Infrastructure Automation  
 • DevOps CI/CD Pipeline Design  
@@ -124,7 +124,7 @@ https://github.com/taylortn/devops-cicd-pipeline-lab
 • Infrastructure as Code (Terraform)  
 • Configuration Management (Ansible)  
 • Secure Cloud Operations
-
+-->
 ## 📄 Resume
 
 <div align="center">
