@@ -109,13 +109,15 @@ Built an automated AWS-based Linux environment using Terraform and Ansible to pr
 
 🔗 https://github.com/taylortn/cloud-linux-automation-lab
 
-🔹 DevSecOps Vulnerability Lab  
-Automated Linux patch remediation pipeline  
-https://github.com/taylortn/devsecops-vulnerability-lab
+🔹 **DevSecOps Vulnerability Lab**  
+Designed and implemented a vulnerability management workflow using Linux systems and security tools to identify, prioritize, and remediate system vulnerabilities. Simulated real-world patching and remediation processes to improve system security and compliance.
 
-🔹 DevOps CI/CD Pipeline Lab  
-GitHub Actions + Docker deployment workflow  
-https://github.com/taylortn/devops-cicd-pipeline-lab
+🔗 https://github.com/taylortn/devsecops-vulnerability-lab
+
+🔹  **DevOps CI/CD Pipeline Lab**  
+Developed a CI/CD pipeline using GitHub Actions and Docker to automate application build and deployment processes. Focused on streamlining deployments, improving consistency, and reducing manual intervention in development workflows.
+
+🔗 https://github.com/taylortn/devops-cicd-pipeline-lab
 
 <!--## ⚙️ Engineering Focus
 
