@@ -12,8 +12,7 @@
 <h3 align="center">👋🏾 Hey there, I'm <strong>Ta'Nara Taylor</strong></h3>
 
 <p align="center">
-  [<img src="https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed" alt="GitHub Banner"/>](https://github.com/taylortn/taylortn/blob/3cd369b860cd9d2f41a320fc6a91c6e53ee4b387/images/GitHub.png)
-</p>
+  <img src="https://github.com/taylortn/taylortn/assets/161537665/55874b4b-9910-448e-a8cd-74ec9c9eb2ed" alt="GitHub Banner"/></p>
 
 <!-- TABLE OF CONTENTS -->
 
