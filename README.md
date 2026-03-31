@@ -146,7 +146,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 - Preparing for RHCSA (EX200)
   
 <!-- TOOL SECTIONS (examples below) -->
-## 🔁 CI/CD Tools
+<!--## 🔁 CI/CD Tools
 <p align="center">
   <img src="https://img.icons8.com/clouds/100/github.png" width="60"/>
   <img src="https://img.icons8.com/color/100/gitlab.png" width="60"/>
@@ -158,7 +158,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 ## 🗃️ Database / ORM Tools
 <p align="center">Currently focused on cloud + security automation; database projects incoming Q2.</p>
-
+-->
 ## 🔐 Vulnerability Management Platforms
 
 <p align="center">
