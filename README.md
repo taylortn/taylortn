@@ -155,7 +155,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 ## 🗃️ Database / ORM Tools
 <p align="center">Currently focused on cloud + security automation; database projects incoming Q2.</p>
--->
+
 ## 🔐 Vulnerability Management Platforms
 
 <p align="center">
@@ -194,7 +194,7 @@ Cloud Engineer & Security-Focused Infrastructure Specialist building resilient A
   <img src="https://img.icons8.com/fluency/100/microsoft-teams-2019.png" width="60"/>
   <img src="https://raw.githubusercontent.com/taylortn/taylortn/main/images/servicenow-seeklogo.png" width="60"/>
 </p>
-
+-->
 <!-- Additional sections omitted for brevity, but would follow the same pattern -->
 
 <!-- CERTIFICATIONS -->
