@@ -125,12 +125,8 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 -->
 ## 📄 Resume
 
-<div align="center">
-
-## 📄 Resume
-
-- [Systems Administrator Resume](./resume/TaNara_Taylor_SysAdmin_Cloud_Resume.pdf)
-- [ISSO Resume](./resume/Taylor%20Resume%20ISSO.pdf)
+- [Systems Administrator](./resume/TaNara_Taylor_SysAdmin_Cloud_Resume.pdf)
+- [Resume](./resume/Taylor%20Resume%20ISSO.pdf)
   
 </div>
 <br>
