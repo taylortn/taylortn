@@ -203,13 +203,6 @@ Cloud Engineer & Security-Focused Infrastructure Specialist building resilient A
   <img src="images/Ai_practitioner.png" width="100" alt="AWS AI Practitioner"/>
 </p>
 
-## 📌 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/taylortn/portfolio/issues/1) in [taylortn/portfolio](https://github.com/taylortn/portfolio)
-<!--END_SECTION:activity-->
-
-
 <!-- CONTRIBUTIONS -->
 <!--
 ## 📈 My Contributions
