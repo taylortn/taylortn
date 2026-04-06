@@ -127,7 +127,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 <div align="center">
 
-[![📄 Download Resume](https://github.com/taylortn/taylortn/blob/0e66646021c3a35a575cd74da5562931f296acb9/resume/T.%20Taylor%20Resume.pdf)
+[![📄 Download Resume](https://github.com/taylortn/taylortn/tree/98c10d5bf3196e6c71c87668ba8eed69b48739b9/resume)
 </div>
 <br>
 <!-- CURRENT PROJECTS -->
