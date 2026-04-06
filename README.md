@@ -127,7 +127,7 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 <div align="center">
 
-  [![📄 Download Resume](https://img.shields.io/badge/📄%20My%20Resume-cb5087?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/taylortn/taylortn/blob/036f983d3b85480e28bfb8415302e91d0c5c3659/resume/TaNara_Taylor_SysAdmin_Cloud_Resume.pdf.pdf)
+[![📄 Download Resume](https://github.com/taylortn/taylortn/blob/0e66646021c3a35a575cd74da5562931f296acb9/resume/T.%20Taylor%20Resume.pdf)
 </div>
 <br>
 <!-- CURRENT PROJECTS -->
