@@ -203,6 +203,30 @@ Cloud Engineer & Security-Focused Infrastructure Specialist building resilient A
   <img src="images/Ai_practitioner.png" width="100" alt="AWS AI Practitioner"/>
 </p>
 
+# 🎨 CSS Design Practice
+
+This repository contains frontend styling and layout exercises focused on building responsive and visually structured user interfaces.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML  
+- CSS  
+
+---
+
+## 🎯 What This Project Demonstrates
+
+- Understanding of layout and design structure  
+- Responsive design fundamentals  
+- Ability to build clean and organized UI components  
+
+---
+
+## 💡 Why This Matters
+
+While my primary focus is system administration, understanding frontend structure helps improve overall technical versatility and problem-solving across platforms.
 <!-- CONTRIBUTIONS -->
 <!--
 ## 📈 My Contributions
