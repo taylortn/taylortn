@@ -114,6 +114,13 @@ Developed a CI/CD pipeline using GitHub Actions and Docker to automate applicati
 
 🔗 https://github.com/taylortn/devops-cicd-pipeline-lab
 
+### AI Cloud Security Remediation Copilot
+
+Developed a DevSecOps remediation dashboard with FastAPI, React, and GitHub Actions to parse Checkov JSON reports, prioritize IaC security findings by severity, and provide actionable remediation guidance for cloud misconfigurations.
+
+**Tech:** FastAPI, React, Checkov, GitHub Actions, Python, JavaScript  
+**Repo:** https://github.com/taylortn/ai-cloud-security-copilot
+
 <!--## ⚙️ Engineering Focus
 
 • Cloud Infrastructure Automation  
