@@ -99,6 +99,13 @@ I hold certifications, including AWS Solutions Architect – Associate, AWS AI P
 
 ## 🚀 Featured Projects
 
+🔹 **AI Cloud Security Remediation Copilot**
+
+Developed a DevSecOps remediation dashboard with FastAPI, React, and GitHub Actions to parse Checkov JSON reports, prioritize IaC security findings by severity, and provide actionable remediation guidance for cloud misconfigurations.
+
+**Tech:** FastAPI, React, Checkov, GitHub Actions, Python, JavaScript  
+**Repo:** https://github.com/taylortn/ai-cloud-security-copilot
+
 🔹 **Cloud Linux Automation Lab**  
 Built an automated AWS-based Linux environment using Terraform and Ansible to provision infrastructure and configure systems. Focused on infrastructure as code, system configuration, and repeatable deployment workflows.
 
@@ -113,13 +120,6 @@ Designed and implemented a vulnerability management workflow using Linux systems
 Developed a CI/CD pipeline using GitHub Actions and Docker to automate application build and deployment processes. Focused on streamlining deployments, improving consistency, and reducing manual intervention in development workflows.
 
 🔗 https://github.com/taylortn/devops-cicd-pipeline-lab
-
-### AI Cloud Security Remediation Copilot
-
-Developed a DevSecOps remediation dashboard with FastAPI, React, and GitHub Actions to parse Checkov JSON reports, prioritize IaC security findings by severity, and provide actionable remediation guidance for cloud misconfigurations.
-
-**Tech:** FastAPI, React, Checkov, GitHub Actions, Python, JavaScript  
-**Repo:** https://github.com/taylortn/ai-cloud-security-copilot
 
 <!--## ⚙️ Engineering Focus
 
