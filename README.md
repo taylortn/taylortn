@@ -104,7 +104,7 @@ I hold certifications, including AWS Solutions Architect – Associate, AWS AI P
 Developed a DevSecOps remediation dashboard with FastAPI, React, and GitHub Actions to parse Checkov JSON reports, prioritize IaC security findings by severity, and provide actionable remediation guidance for cloud misconfigurations.
 
 **Tech:** FastAPI, React, Checkov, GitHub Actions, Python, JavaScript  
-**Repo:** https://github.com/taylortn/ai-cloud-security-copilot
+🔗 https://github.com/taylortn/ai-cloud-security-copilot
 
 🔹 **Cloud Linux Automation Lab**  
 Built an automated AWS-based Linux environment using Terraform and Ansible to provision infrastructure and configure systems. Focused on infrastructure as code, system configuration, and repeatable deployment workflows.
