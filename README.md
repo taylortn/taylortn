@@ -72,9 +72,9 @@
 
 <br>
 
-**System Administrator | Cloud Operations | Security-Focused Infrastructure**
+**System Administrator | Cloud Operations | Security-Focused Infrastructure | Information Systems Security Officer**
 
-I’m a System Administrator with a strong background in cloud operations and security-focused infrastructure. I work hands-on with Linux systems and AWS environments, making sure everything stays up, secure, and running the way it’s supposed to.
+I’m currently an Information Systems Security Officer with a strong background in cloud operations and security-focused infrastructure. I work hands-on with Linux systems and AWS environments, making sure everything stays up, secure, and running the way it’s supposed to.
 
 I’ve worked on system monitoring, vulnerability remediation, patching, and handling day-to-day operational support in secure environments. I’m big on keeping systems stable, locked down, and efficient without overcomplicating things.
 
